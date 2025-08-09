@@ -1,0 +1,49 @@
+<Translations>
+    <assembly-category>Montáž</assembly-category>
+    <assembly-category-description>Kategorie pro sestavování komplexních produktů z dílů a komponentů.</assembly-category-description>
+
+    <crimper-category>Lisování</crimper-category>
+    <crimper-category-description>Kategorie pro lisovací procesy spojování a tvarování materiálů pod tlakem.</crimper-category-description>
+
+    <cutter-category>Řezání</cutter-category>
+    <cutter-category-description>Kategorie pro řezací procesy dělení materiálů na požadované tvary a rozměry.</cutter-category-description>
+
+    <drill-category>Vrtání</drill-category>
+    <drill-category-description>Kategorie pro vrtací procesy vytváření děr a otvorů v materiálech.</drill-category-description>
+
+    <lathe-category>Soustružení</lathe-category>
+    <lathe-category-description>Kategorie pro soustružnické procesy obrábění rotačních součástí.</lathe-category-description>
+
+    <punch-press-category>Děrování</punch-press-category>
+    <punch-press-category-description>Kategorie pro děrovací lisy vytváření otvorů a výsečí v plochých materiálech.</punch-press-category-description>
+
+    <wire-drawing-category>Tažení drátů</wire-drawing-category>
+    <wire-drawing-category-description>Kategorie pro procesy tažení a vytváření drátů z kovových materiálů.</wire-drawing-category-description>
+
+    <refining-category>Rafinace</refining-category>
+    <refining-category-description>Kategorie pro rafinační procesy čištění a zpracování surovin na čisté materiály.</refining-category-description>
+    
+    <gas-refining-category>Plynová rafinace</gas-refining-category>
+    <gas-refining-category-description>Kategorie pro rafinaci plynných látek a chemických procesů s plyny.</gas-refining-category-description>
+
+    <blast-furnace-category>Vysoká pec</blast-furnace-category>
+    <blast-furnace-category-description>Kategorie pro vysokoteplotní tavení a redukci rud na čisté kovy.</blast-furnace-category-description>
+
+    <steel-furnace-category>Ocelová pec</steel-furnace-category>
+    <steel-furnace-category-description>Kategorie pro výrobu oceli a ocelových slitin z železných materiálů.</steel-furnace-category-description>
+
+    <electric-furnace-category>Elektrická pec</electric-furnace-category>
+    <electric-furnace-category-description>Kategorie pro elektrické tavení s přesnou teplotní kontrolou a čistým prostředím.</electric-furnace-category-description>
+
+    <blast-or-electric-furnace-category>Vysoká nebo elektrická pec</blast-or-electric-furnace-category>
+    <blast-or-electric-furnace-category-description>Kategorie pro pokročilé tavení vyžadující vysoké teploty nebo přesnou kontrolu.</blast-or-electric-furnace-category-description>
+
+    <lucrum-smelter-category>Lucrum tavírna</lucrum-smelter-category>
+    <lucrum-smelter-category-description>Pec, která dokáže tavit Lucrum 115</lucrum-smelter-category-description>
+    
+    <casting-machine-category>Lucrum-cívka-lis</casting-machine-category>
+    <casting-machine-category-description>Lis, který vyrábí Lucrum cívky</casting-machine-category-description>
+
+    <chemical-recipe-category>Chemická kategorie</chemical-recipe-category>
+    <chemical-recipe-category-description>Kategorie pro chemické procesy a výrobu chemických látek a rozpouštědel.</chemical-recipe-category-description>
+</Translations>

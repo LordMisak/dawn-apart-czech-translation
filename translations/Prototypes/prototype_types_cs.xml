@@ -1,0 +1,39 @@
+<Translations>
+    <BlueprintPrototype>Plány</BlueprintPrototype>
+    <AccumulatorPrototype>Akumulátory</AccumulatorPrototype>
+    <BuildingSupportPrototype>Stavební podpory</BuildingSupportPrototype>
+    <CranePrototype>Podavače</CranePrototype>
+    <ConveyorPrototype>Dopravníky</ConveyorPrototype>
+    <GeneratorPrototype>Generátory</GeneratorPrototype>
+    <LinkPrototype>Spojení</LinkPrototype>
+    <MiningDrillPrototype>Těžební vrtáky</MiningDrillPrototype>
+    <SolarPanelPrototype>Solární panely</SolarPanelPrototype>
+    <StoragePrototype>Sklady</StoragePrototype>
+    <TurretPrototype>Věže</TurretPrototype>
+    <UtilityPolePrototype>Užitkové sloupy</UtilityPolePrototype>
+    <ConverterPrototype>Konvertory</ConverterPrototype>
+    <FloorPrototype>Podlahy</FloorPrototype>
+    <WallPrototype>Zdi</WallPrototype>
+    <StaircasePrototype>Schody</StaircasePrototype>
+    <AmmoPrototype>Munice</AmmoPrototype>
+    <AmmoCategoryPrototype>Kategorie munice</AmmoCategoryPrototype>
+    <ArmorPrototype>Brnění</ArmorPrototype>
+    <ItemPrototype>Předměty</ItemPrototype>
+    <FuelCategoryPrototype>Kategorie paliv</FuelCategoryPrototype>
+    <MiningCategoryPrototype>Kategorie těžby</MiningCategoryPrototype>
+    <WeaponPrototype>Zbraně</WeaponPrototype>
+    <UnitPrototype>Jednotky</UnitPrototype>
+    <RecipePrototype>Recepty</RecipePrototype>
+    <RecipeCategoryPrototype>Kategorie receptů</RecipeCategoryPrototype>
+    <ResourcePrototype>Zdroje</ResourcePrototype>
+    <TreePrototype>Stromy</TreePrototype>
+    <ParticleSystemPrototype>Částicové systémy</ParticleSystemPrototype>
+    <ColorPalettePrototype>Barevné palety</ColorPalettePrototype>
+    <DecorationPrototype>Dekorace</DecorationPrototype>
+    <LightSourcePrototype>Světelné zdroje</LightSourcePrototype>
+    <FurniturePrototype>Nábytek</FurniturePrototype>
+    <PipePrototype>Trubky</PipePrototype>
+    <StockpilePrototype>Sklady</StockpilePrototype>
+    <SpacePortPrototype>Kosmodrom</SpacePortPrototype>
+    <SplitterPrototype>Rozdělovače</SplitterPrototype>
+</Translations>

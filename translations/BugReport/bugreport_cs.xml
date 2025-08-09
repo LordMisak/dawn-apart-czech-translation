@@ -1,0 +1,21 @@
+<Translations>
+	<ReportABug>Nahlásit chybu</ReportABug>
+	<SendBugReport>Odeslat hlášení chyby</SendBugReport>
+	<YourDiscordName>Vaše Discord jméno (volitelné):</YourDiscordName>
+	<WhatBug>Jaká chyba (tři slova nebo méně):</WhatBug>
+	<HowToReproduce>Jak můžeme tuto chybu reprodukovat:</HowToReproduce>
+	<AutomaticSaveInfo>Automaticky vytvoříme uložený soubor a přeneseme ho společně s vaším popisem a snímkem obrazovky.</AutomaticSaveInfo>
+	<WantToBeAnonymous>Chci zůstat anonymní</WantToBeAnonymous>
+	<SendReport>Odeslat hlášení</SendReport>
+	<Sending>Odesílání</Sending>
+	<SendingInfo>Hlášení chyby se odesílá...</SendingInfo>
+	<Error>Chyba</Error>
+	<ErrorInfo>Při odesílání hlášení chyby došlo k chybě.
+		Ujistěte se prosím, že jste vyplnili všechna potřebná pole (název a popis) nebo to zkuste později.
+
+		Děkujeme za vaši podporu!</ErrorInfo>
+	<ThankYou>Děkujeme</ThankYou>
+	<ThankYouInfo>Chyba byla úspěšně nahlášena.
+
+		Děkujeme za vaši podporu!</ThankYouInfo>
+</Translations>

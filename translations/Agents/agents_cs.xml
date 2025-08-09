@@ -1,0 +1,123 @@
+<Translations>
+	<Random>
+		<key>PioneerFeelingAngry</key>
+		<li>Jsem teď tak naštvaný!</li>
+		<li>Cítím se naštvaně!</li>
+		<li>Jsem tak rozzlobený!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingSatisfied</key>
+		<li>Cítím se skvěle!</li>
+		<li>Jsem spokojený!</li>
+		<li>Je mi dobře!</li>
+		<li>Cítím se výborně!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingHungry</key>
+		<li>Měl bych brzy jíst.</li>
+		<li>Mám docela hlad.</li>
+		<li>Měl bych najít nějaké jídlo.</li>
+		<li>Začínám mít hlad.</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingStarving</key>
+		<li>Musím teď jíst.</li>
+		<li>Potřebuji se hned najíst.</li>
+		<li>Umřu, když nedostanu nějaké jídlo!</li>
+		<li>Umírám hlady!</li>
+		<li>Prosím, nakrm mě!</li>
+		<li>Prosím, musím se najíst!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingTired</key>
+		<li>Jsem docela unavený.</li>
+		<li>Cítím se docela unavený.</li>
+		<li>Měl bych jít brzy spát.</li>
+		<li>Možná bude brzy čas na zdřímnutí.</li>
+		<li>Je čas si trochu zdřímnout.</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingExhausted</key>
+		<li>Potřebuji teď spát.</li>
+		<li>Potřebuji hned spát!</li>
+		<li>Pokud brzy nepůjdu spát, omdlím.</li>
+		<li>Cítím se jako v deliriu, musím jít do postele.</li>
+		<li>Prosím, nech mě jít do postele!</li>
+		<li>Prosím, musím se trochu vyspat!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingDirty</key>
+		<li>Měl bych se umýt.</li>
+		<li>Už trochu zraju.</li>
+		<li>Potřebuji si umýt ruce.</li>
+		<li>Cítím se docela špinavý.</li>
+		<li>Měl bych se trochu očistit.</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingDisgusting</key>
+		<li>Jsem tak odporný.</li>
+		<li>Jsem tak hnusný.</li>
+		<li>Potřebuji sprchu!</li>
+		<li>Tyhle mouchy mě nenechají na pokoji.</li>
+		<li>Tak hrozně smrdím, prosím, nechte mě se umýt!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingStressed</key>
+		<li>Cítím se ve stresu.</li>
+		<li>Cítím se stresovaný.</li>
+		<li>Mám pocit, že je něco špatně.</li>
+		<li>Je toho na mě moc.</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingPanicked</key>
+		<li>Nevím, co se děje!</li>
+		<li>Myslím, že mám panický záchvat.</li>
+		<li>Cítím paniku!</li>
+		<li>Jsem zmatený!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingHasToGoBathroom</key>
+		<li>Musím čůrat.</li>
+		<li>Potřebuji čůrat.</li>
+		<li>Brzy bych měl jít do koupelny.</li>
+		<li>Potřebuji na záchod.</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingAboutToHaveAnAccident</key>
+		<li>Mám za chvilku nehodu.</li>
+		<li>Asi budu mít nehodu!</li>
+		<li>Asi prasknu!</li>
+		<li>Prosím, potřebuji na záchod!</li>
+		<li>Prosím, nech mě jít na záchod!</li>
+		<li>Prosím, nenuť mě čůrat se!</li>
+		<li>Musím jít. Musím jít. Musím jít hned!</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingInjured</key>
+		<li>Mám malé zranění.</li>
+		<li>Mám lehké zranění.</li>
+		<li>Brzy bych měl jít k doktorovi.</li>
+		<li>Brzy bych se měl dostat do regeneračního modulu.</li>
+	</Random>
+
+	<Random>
+		<key>PioneerFeelingOnDeathsDoor</key>
+		<li>Myslím, že umřu.</li>
+		<li>Myslím, že zemřu!</li>
+		<li>Potřebuji hned doktora!</li>
+		<li>Prosím, potřebuji léky!</li>
+		<li>Jsem těžce zraněný!</li>
+	</Random>
+</Translations>

@@ -1,0 +1,20 @@
+<Translations>
+	<NoRecipeSelected>Žádný recept není vybrán</NoRecipeSelected>
+	<NoFuel>Žádné palivo</NoFuel>
+	<OutputBlocked>Výstup blokován</OutputBlocked>
+	<WaitingForIngredients>Čekání na ingredience</WaitingForIngredients>
+	<NeedsRepair>Potřebuje opravu</NeedsRepair>
+
+	<ChangeRecipeTooltip>Změnit aktuálně vybraný recept</ChangeRecipeTooltip>
+	<PioneerFeedingTooltip>Přepnout poskytování zdrojů průzkumníky pro tuto entitu</PioneerFeedingTooltip>
+	<ProgramSelectionTooltip>Změnit aktuálně vybrané předměty</ProgramSelectionTooltip>
+	
+	<HowToUseTheSpaceport>Jak používat kosmodrom</HowToUseTheSpaceport>
+	<SpaceportHaulInfo>S tímto kosmodromem můžete obchodovat s mimozemskými obchodníky. Přistávací zóna musí být dostatečně velká pro podporu určitých lodí. Pro naložení předmětů do kosmodromu buď připojte dopravní pás k jeho výstupu nebo je přepravte pomocí příkazu přepravy (pravý klik na stroj nebo sklad).</SpaceportHaulInfo>
+	<Storage>Sklad</Storage>
+	<NoAssignment>Aktuální přiřazení - žádné</NoAssignment>
+	<SelectTrade>Vybrat obchod</SelectTrade>
+	
+	<SlotStackSize>Tento slot je {0} úrovní vysoký</SlotStackSize>
+	<ApplyForAllSlots>Použít pro všechny prázdné sloty</ApplyForAllSlots>	
+</Translations>

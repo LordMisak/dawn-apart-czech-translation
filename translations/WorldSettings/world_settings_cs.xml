@@ -1,0 +1,14 @@
+<Translations>
+    <World>Svět:</World>
+    <WorldSettings>Nastavení světa</WorldSettings>
+    <NewWorldSettings>Nastavení nového světa</NewWorldSettings>
+    <SkipTutorial>Přeskočit tutoriál:</SkipTutorial>
+    <EnableEnemyWaves>Nepřátelé (velmi experimentální):</EnableEnemyWaves>
+    <EnableAdditionalLandingZones>Náhodná přistávací zóna (experimentální):</EnableAdditionalLandingZones>
+    <StartingAgentCount>Velikost posádky:</StartingAgentCount>
+    <AgentExperienceGainModifier>Modifikátor získávání dovedností:</AgentExperienceGainModifier>
+    <AgentSkillDeteriorationModifier>Modifikátor ztráty dovedností:</AgentSkillDeteriorationModifier>
+    <AgentNeedsDeteriorationModifier>Modifikátor ztráty potřeb:</AgentNeedsDeteriorationModifier>
+    <ResourceMiningDestroyChanceModifier>Modifikátor šance zničení při těžbě:</ResourceMiningDestroyChanceModifier>
+    <ResourceMiningDestroyChanceModifierTooltip>Upravuje šanci, že jsou voxely zdrojů zničeny při těžbě. Hodnota 0 poskytuje neomezené zásoby zdrojů.</ResourceMiningDestroyChanceModifierTooltip>
+</Translations>

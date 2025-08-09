@@ -1,0 +1,61 @@
+<Translations>
+    <ach-Planetfall>Planetární přistání</ach-Planetfall>
+    <ach-planetfall-description>Přistaňte na svém novém domově, Sirius B 3</ach-planetfall-description>
+
+    <ach-SomeEngineering>Základní inženýrství</ach-SomeEngineering>
+    <ach-SomeEngineering-description>Vyrob 1 červené rozpouštědlo</ach-SomeEngineering-description>
+
+    <ach-AdequateEngineering>Odpovídající inženýrství</ach-AdequateEngineering>
+    <ach-AdequateEngineering-description>Vyrob 1 zelené rozpouštědlo</ach-AdequateEngineering-description>
+
+    <ach-PrettyGoodEngineering>Celkem dobré inženýrství</ach-PrettyGoodEngineering>
+    <ach-PrettyGoodEngineering-description>Vyrob 1 modré rozpouštědlo</ach-PrettyGoodEngineering-description>
+
+    <ach-NewFearUnlocked>Odemčen nový strach</ach-NewFearUnlocked>
+    <ach-NewFearUnlocked-description>Přežij první útočnou vlnu</ach-NewFearUnlocked-description>
+
+    <ach-GetOffMyLawnAlready>Už mi běžte z trávníku!</ach-GetOffMyLawnAlready>
+    <ach-GetOffMyLawnAlready-description>Přežij 10. útočnou vlnu</ach-GetOffMyLawnAlready-description>
+
+    <ach-WeDontHaveToDoThis>Nemusíme to dělat</ach-WeDontHaveToDoThis>
+    <ach-WeDontHaveToDoThis-description>Během útoku nezabij žádné nepřátele</ach-WeDontHaveToDoThis-description>
+
+    <ach-ColonyStarter>Začátečník kolonie</ach-ColonyStarter>
+    <ach-ColonyStarter-description>Měj 10 prospektorů ve své kolonii</ach-ColonyStarter-description>
+
+    <ach-GettingCrowded>Začíná být plno</ach-GettingCrowded>
+    <ach-GettingCrowded-description>Měj 100 prospektorů ve své kolonii</ach-GettingCrowded-description>
+
+    <ach-NotADrill>Toto není cvičení</ach-NotADrill>
+    <ach-NotADrill-description>Aktivuj alarm</ach-NotADrill-description>
+
+    <ach-ConquerAndExploit>Dobývej a těž</ach-ConquerAndExploit>
+    <ach-ConquerAndExploit-description>Vytěž 1 000 zdrojů</ach-ConquerAndExploit-description>
+
+    <ach-PointOfNoReturn>Bod zlomu</ach-PointOfNoReturn>
+    <ach-PointOfNoReturn-description>Vytěž 1 000 000 zdrojů</ach-PointOfNoReturn-description>
+
+    <ach-FirstOfMany>První z mnoha</ach-FirstOfMany>
+    <ach-FirstOfMany-description>Vytěž 1 rudu Lucrum</ach-FirstOfMany-description>
+
+    <ach-AsYouWish>Jak si přeješ</ach-AsYouWish>
+    <ach-AsYouWish-description>Dokončit první Lucrum obchod</ach-AsYouWish-description>
+
+    <ach-WhatAWaste>Jaký odpad</ach-WhatAWaste>
+    <ach-WhatAWaste-description>Vytěž 100 000 odpadních zdrojů</ach-WhatAWaste-description>
+
+    <ach-AutomationIsTheKey>Automatizace je klíčem</ach-AutomationIsTheKey>
+    <ach-AutomationIsTheKey-description>Vyrob 100 dopravních pásů</ach-AutomationIsTheKey-description>
+
+    <ach-NowThatIsAFactory>Teď to je továrna!</ach-NowThatIsAFactory>
+    <ach-NowThatIsAFactory-description>Vyrob 1 000 dopravních pásů</ach-NowThatIsAFactory-description>
+
+    <ach-ThankYouForPlayingDemo>Děkujeme za hru dema!</ach-ThankYouForPlayingDemo>
+    <ach-ThankYouForPlayingDemo-description>Dostaň se na konec dema</ach-ThankYouForPlayingDemo-description>
+
+    <ach-WhatAboutSecondDemo>A co druhé demo?</ach-WhatAboutSecondDemo>
+    <ach-WhatAboutSecondDemo-description>Po dokončení restart demo</ach-WhatAboutSecondDemo-description>
+
+    <ach-ADemoSoNice>Demo tak skvělé</ach-ADemoSoNice>
+    <ach-ADemoSoNice-description>Dostaň se na konec dema podruhé</ach-ADemoSoNice-description>
+</Translations>

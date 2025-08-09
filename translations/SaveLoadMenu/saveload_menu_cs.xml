@@ -1,0 +1,12 @@
+<Translations>
+	<SaveGame>Uložit hru</SaveGame>
+	<LoadGame>Načíst hru</LoadGame>
+	<NewSave>Nové uložení</NewSave>
+	<HideAutosaves>Skrýt automatická uložení</HideAutosaves>
+	<ContinueGame>Pokračovat ve hře</ContinueGame>
+	<Overwrite>Přepsat</Overwrite>
+	<NameSave>Pojmenujte vaše uložení:</NameSave>
+	<SavingText>Ukládání...</SavingText>
+	<LoadingText>Načítání...</LoadingText>
+	<SaveSuccess>Uložení úspěšné!</SaveSuccess>
+</Translations>

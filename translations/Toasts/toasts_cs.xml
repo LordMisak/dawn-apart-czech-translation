@@ -1,0 +1,12 @@
+<Translations>
+    <AgentSkillLevelChanged>{0} má nyní úroveň {1} v {2}</AgentSkillLevelChanged>
+    <BlueprintPlacementFailed>Umístění plánu bylo neplatné.</BlueprintPlacementFailed>
+    <BlueprintSnapToEnabled>Přichycení plánu k terénu bylo zapnuto. Klávesa: {0}</BlueprintSnapToEnabled>
+    <BlueprintSnapToDisabled>Přichycení plánu k terénu bylo vypnuto. Klávesa: {0}</BlueprintSnapToDisabled>
+    <SpaceportDamaged>Přistávací zóna {0} byla poškozena a je nyní deaktivována.</SpaceportDamaged>
+    <AlarmActivated>Alarm byl aktivován!</AlarmActivated>
+    <AlarmDeactivated>Alarm byl deaktivován.</AlarmDeactivated>
+    <AttackWaveStarted>{0}. útok začal s {1} nepřáteli a rozpočtem {2} bodů. Cíl: {3}</AttackWaveStarted>
+    <AttackWaveRetreating>{0}. útok se stahuje s {1} přeživšími nepřáteli a {2} ukradenými předměty.</AttackWaveRetreating>
+    <NoAvailableStorage>Není dostupný sklad pro {0}. Postavte více skladů.</NoAvailableStorage>
+</Translations>

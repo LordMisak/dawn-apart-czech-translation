@@ -1,0 +1,11 @@
+<Translations>
+    <ModelViewerBack>Zpět</ModelViewerBack>
+    <OperationsHandbook>Operační příručka</OperationsHandbook>
+    <MoveUp>Pohyb kamery nahoru: Ⓦ</MoveUp>
+    <MoveDown>Pohyb kamery dolů: Ⓢ</MoveDown>
+    <MoveLeft>Pohyb kamery vlevo: Ⓐ</MoveLeft>
+    <MoveRight>Pohyb kamery vpravo: Ⓓ</MoveRight>
+    <TiltUp>Náklon kamery nahoru: Ⓡ</TiltUp>
+    <TiltDown>Náklon kamery dolů: Ⓕ</TiltDown>
+    <HideShow>Skrýt/Zobrazit UI: Ⓗ</HideShow>
+</Translations>

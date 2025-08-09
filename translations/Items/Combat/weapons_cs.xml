@@ -1,0 +1,36 @@
+<Translations>
+    <fists>Pěsti</fists>
+    <fists-description>Pozvedni pěsti. Lepší než nic, ale ne o moc.</fists-description>
+
+    <axe>Sekera</axe>
+    <axe-description>Rub a štěp. Účinná pro boj zblízka i kácení stromů.</axe-description>
+
+    <pickaxe>Krumpáč</pickaxe>
+    <pickaxe-description>Kamení a horniny! Nepostradatelný nástroj každého horníka.</pickaxe-description>
+
+    <pistol>Pistole</pistol>
+    <pistol-description>Spolehlivá ruční zbraň pro základní obranu. Rychlá a přesná na krátké vzdálenosti.</pistol-description>
+
+    <sub-machine-gun>Samopal</sub-machine-gun>
+    <sub-machine-gun-description>Automatická zbraň s vysokou kadencí střelby. Ideální pro boj zblízka.</sub-machine-gun-description>
+
+    <shotgun>Brokovnice</shotgun>
+    <shotgun-description>Devastující síla na krátkou vzdálenost. Rozptyluje projektily pro maximální poškození.</shotgun-description>
+
+    <sniper>Odstřelovací puška</sniper>
+    <sniper-description>Přesná zbraň pro dlouhé vzdálenosti. Jeden výstřel, jeden zásah.</sniper-description>
+
+    <pulse-rifle>Pulzní puška</pulse-rifle>
+    <pulse-rifle-description>Pokročilá energetická zbraň vystřelující pulzy energie. Vysoce účinná proti pancéřovaným cílům.</pulse-rifle-description>
+
+    <heavy-machine-gun>Těžký kulomet</heavy-machine-gun>
+    <heavy-machine-gun-description>Masivní automatická zbraň s obrovskou ničivou silou. Potřebuje čas na rozestavění.</heavy-machine-gun-description>
+
+    <rocket-launcher>Raketová odpalovačka</rocket-launcher>
+    <rocket-launcher-description>Devastující zbraň vystřelující explozivní rakety. Způsobuje masivní poškození na velkých plochách.</rocket-launcher-description>
+
+    <mortar>Minomet</mortar>
+    <mortar-description>Nepřímá palba s vysokou explozivní silou. Účinný proti skupinám nepřátel za krytím.</mortar-description>
+
+    <no-weapon>Bez zbraně</no-weapon>
+</Translations>

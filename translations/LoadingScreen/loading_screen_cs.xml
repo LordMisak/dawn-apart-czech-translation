@@ -1,0 +1,27 @@
+<Translations>
+    <Random>
+        <key>LoadingScreenTips</key>
+        <li>Zobrazit náklad přistávací lodi lze demontáží její střechy nebo použitím pohledu na základy stisknutím F2</li>
+        <li>Přiřaďte jednotlivé zdroje do skladů výběrem prázdného slotu</li>
+        <li>Nemůžete umístit plán? Použijte příkaz Vyrovnání k vyrovnání povrchu planety</li>
+        <li>Klikněte pravým tlačítkem na sklad nebo jakýkoli stroj obsahující předměty, abyste z něj mohli přepravovat předměty</li>
+        <li>Zkontrolujte okno událostí, přístupné z levého horního rohu, pro úkoly, události nebo příchozí obchodní požadavky</li>
+        <li>Pokud má stroj nepřipojený výstup, při umísťování plánů se objeví bílý indikátor</li>
+        <li>Pokud stroje nemají výstupy, musíte k nim připojit podavače nebo použít průzkumníky k odebírání předmětů</li>
+        <li>Pokud jsou na zemi zdroje se symbolem zákazu, možná nemáte dostatek místa ve skladě</li>
+        <li>Umístěte Mr. Soylent automaty na jídlo pro vaše průzkumníky</li>
+    </Random>
+    
+    <ReadFilesStep>Načítání definičních souborů</ReadFilesStep>
+    <ParsePrototypeStep>Zpracovávání {0} definice do prototypu</ParsePrototypeStep>
+    <GpuUpdateStep>Aktualizace dat GPU</GpuUpdateStep>
+    <LoadingWorldFromFileStep>Načítání světa ze souboru</LoadingWorldFromFileStep>
+    <TerrainGenStep>Generování terénu</TerrainGenStep>
+    <ResourceGenStep>Umísťování zdrojů</ResourceGenStep>
+    <FloraGenStep>Sledování růstu trávy</FloraGenStep>
+    <TreeGenStep>Sázení stromů</TreeGenStep>
+    <DecorationGenStep>Dekorování světa</DecorationGenStep>
+    <FaunaGenStep>Vdechování života</FaunaGenStep>
+    <FinalizingGenStep>Dokončování</FinalizingGenStep>
+    <Finished>Dokončeno</Finished>
+</Translations>

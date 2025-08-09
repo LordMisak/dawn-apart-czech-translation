@@ -1,0 +1,244 @@
+<Translations>
+    <meteor>Meteor</meteor>
+    <meteor-description>Vesmírný objekt, který dopadl na povrch planety. Může obsahovat vzácné materiály.</meteor-description>
+
+    <wood>Dřevo</wood>
+    <wood-description>Svazek dřeva vytěženého ze stromů.</wood-description>
+
+    <crude-oil>Ropa</crude-oil>
+    <crude-oil-description>Surová ropa vytěžená z podzemních ložisek. Základní surovina pro chemické procesy.</crude-oil-description>
+    
+    <stone>Žula</stone>
+    <stone-description>Hromada kamení.</stone-description>
+
+    <stone-block>Žulový blok</stone-block>
+    <stone-block-description>Blok žuly.</stone-block-description>
+
+    <coal>Uhlí</coal>
+    <coal-description>Hromada uhlí. Lze použít jako palivo.</coal-description>
+
+    <coke>Koks</coke>
+    <coke-description>Efektivnější palivo než uhlí.</coke-description>
+
+    <copper-ore>Měděná ruda</copper-ore>
+    <copper-ore-description>Hromada měděné rudy.</copper-ore-description>
+
+    <copper-ingot>Měděný ingot</copper-ingot>
+    <copper-ingot-description>Rafinovaný měděný ingot. Stavební kámen pro mnoho předmětů.</copper-ingot-description>
+
+    <copper-block>Měděný blok</copper-block>
+    <copper-block-description>Pevný blok vyrobený z mědi. Používá se pro stavební účely a jako dekorativní prvek.</copper-block-description>
+
+    <copper-rods>Měděné tyče</copper-rods>
+    <copper-rods-description>Tyče vyrobené z mědi.</copper-rods-description>
+
+    <copper-plate>Měděný plech</copper-plate>
+    <copper-plate-description>Plech vyrobený z mědi.</copper-plate-description>
+
+    <copper-pipe>Měděná trubka</copper-pipe>
+    <copper-pipe-description>Trubka vyrobená z mědi.</copper-pipe-description>
+
+    <copper-wire>Jemný drát</copper-wire>
+    <copper-wire-description>Jemný drát vyrobený z mědi.</copper-wire-description>
+
+    <copper-cable>Měděný kabel</copper-cable>
+    <copper-cable-description>Buben měděných kabelů.</copper-cable-description>
+
+    <copper-barbed-wire-fence>Měděný ostnatý drát</copper-barbed-wire-fence>
+    <copper-barbed-wire-fence-description>Ostnatý drát vyrobený z mědi.</copper-barbed-wire-fence-description>
+    
+    <iron-ore>Železná ruda</iron-ore>
+    <iron-ore-description>Hromada železné rudy.</iron-ore-description>
+    
+    <iron-ingot>Železný ingot</iron-ingot>
+    <iron-ingot-description>Surový železný ingot vytavený z železné rudy. Základní materiál pro výrobu oceli.</iron-ingot-description>
+
+    <iron-block>Železný blok</iron-block>
+    <iron-block-description>Masivní blok ze surového železa. Pevný stavební materiál s vysokou odolností.</iron-block-description>
+    
+    <steel-ingot>Ocelový ingot</steel-ingot>
+    <steel-ingot-description>Rafinované železo. Stavební kámen pro mnoho předmětů.</steel-ingot-description>
+
+    <hardened-steel-block>Kalený ocelový blok</hardened-steel-block>
+    <hardened-steel-block-description>Vysoce odolný blok z kalené oceli. Poskytuje maximální ochranu a strukturální pevnost.</hardened-steel-block-description>
+
+    <stainless-steel-block>Nerezový blok</stainless-steel-block>
+    <stainless-steel-block-description>Blok z nerezové oceli odolný proti korozi. Ideální pro použití v chemicky agresivním prostředí.</stainless-steel-block-description>
+
+    <steel-gear>Ocelové ozubené kolo</steel-gear>
+    <steel-gear-description>Ozubené kolo vyrobené z oceli.</steel-gear-description>
+    
+    <steel-plate>Ocelový plech</steel-plate>
+    <steel-plate-description>Plechy vyrobené z oceli.</steel-plate-description>
+    
+    <steel-pipe>Ocelová trubka</steel-pipe>
+    <steel-pipe-description>Trubky vyrobené z oceli.</steel-pipe-description>
+    
+    <steel-cable>Ocelový kabel</steel-cable>
+    <steel-cable-description>Kabely vyrobené z oceli.</steel-cable-description>
+    
+    <steel-mesh>Ocelová síť</steel-mesh>
+    <steel-mesh-description>Sítě vyrobené z oceli.</steel-mesh-description>
+
+    <steel-screws>Ocelové šrouby</steel-screws>
+    <steel-screws-description>Šrouby vyrobené z oceli.</steel-screws-description>
+    
+    <steel-barbed-wire-fence>Ocelový ostnatý drát</steel-barbed-wire-fence>
+    <steel-barbed-wire-fence-description>Ostnatý drát vyrobený z oceli.</steel-barbed-wire-fence-description>
+
+    <lucrum-ore>Lucrum 115</lucrum-ore>
+    <lucrum-ore-description>Nejcennější zdroj ve známé galaxii.</lucrum-ore-description>
+
+    <lucrum-ingot>Lucrum 115 ingot</lucrum-ingot>
+    <lucrum-ingot-description>Rafinovanější forma Lucrum 115.</lucrum-ingot-description>
+
+    <lucrum-coil>Lucrum 115 cívka</lucrum-coil>
+    <lucrum-coil-description>Lucrum 115 cívka. Palivo pro FTL motory.</lucrum-coil-description>
+
+    <cobaltite-ore>Kobaltitová ruda</cobaltite-ore>
+    <cobaltite-ore-description>Hromada kobaltitové rudy.</cobaltite-ore-description>
+
+    <nickel-ingot>Niklová ruda</nickel-ingot>
+    <nickel-ingot-description>Hromada niklové rudy.</nickel-ingot-description>
+
+    <gold-ore>Zlatá ruda</gold-ore>
+    <gold-ore-description>Vzácná zlatá ruda vytěžená z hlubokých ložisek. Vysoce cenný obchodní komodita.</gold-ore-description>
+
+    <gold-ingot>Zlatý ingot</gold-ingot>
+    <gold-ingot-description>Čistý zlatý ingot s vysokou hodnotou. Používá se pro výrobu luxusních předmětů a elektroniky.</gold-ingot-description>
+
+    <gold-block>Zlatý blok</gold-block>
+    <gold-block-description>Masivní blok z čistého zlata. Symbol bohatství a prestigiózní stavební materiál.</gold-block-description>
+    
+    <gold-pole>Zlatá tyč</gold-pole>
+    <gold-pole-description>Elegantní tyč z čistého zlata. Kombinuje funkčnost s luxusním vzhledem.</gold-pole-description>
+
+    <gold-plate>Zlatý plech</gold-plate>
+    <gold-plate-description>Tenký plech z čistého zlata. Vynikající vodivost a odolnost proti korozi.</gold-plate-description>
+
+    <gold-pipe>Zlatá trubka</gold-pipe>
+    <gold-pipe-description>Trubka z čistého zlata. Poskytuje nejvyšší odolnost proti chemickým látkám.</gold-pipe-description>
+
+    <gold-cable>Zlatý kabel</gold-cable>
+    <gold-cable-description>Prémiový kabel z čistého zlata s vynikajícími vodivými vlastnostmi.</gold-cable-description>
+
+    <gold-mesh>Zlatá síť</gold-mesh>
+    <gold-mesh-description>Jemná síť z tenkých zlatých drátů. Ideální pro filtraci a dekorativní účely.</gold-mesh-description>
+
+    <gold-barbed-wire-fence>Zlatý ostnatý drát</gold-barbed-wire-fence>
+    <gold-barbed-wire-fence-description>Luxusní ostnatý drát ze zlata. Kombinuje ochranu s prestižním vzhledem.</gold-barbed-wire-fence-description>
+    
+    <lead-ore>Olověná ruda</lead-ore>
+    <lead-ore-description>Těžká olověná ruda s vysokou hustotou. Základní materiál pro radiační ochranu.</lead-ore-description>
+
+    <lead-ingot>Olověný ingot</lead-ingot>
+    <lead-ingot-description>Hustý olověný ingot s vynikajícími ochrannými vlastnostmi proti radiaci.</lead-ingot-description>
+
+    <lead-block>Olověný blok</lead-block>
+    <lead-block-description>Těžký olověný blok poskytující maximální radiační ochranu.</lead-block-description>
+
+    <lead-pole>Olověná tyč</lead-pole>
+    <lead-pole-description>Robustní tyč z olova. Vynikající pro aplikace vyžadující radiační stínění.</lead-pole-description>
+
+    <lead-plate>Olověný plech</lead-plate>
+    <lead-plate-description>Hustý olověný plech používaný především pro radiační ochranu.</lead-plate-description>
+
+    <lead-pipe>Olověná trubka</lead-pipe>
+    <lead-pipe-description>Těžká olověná trubka odolná proti chemickým látkám a radiaci.</lead-pipe-description>
+
+    <lead-cable>Olověný kabel</lead-cable>
+    <lead-cable-description>Robustní kabel s olověným opláštěním pro extrémní podmínky.</lead-cable-description>
+
+    <lead-mesh>Olověná síť</lead-mesh>
+    <lead-mesh-description>Hustá olověná síť poskytující účinnou radiační bariéru.</lead-mesh-description>
+
+    <lead-barbed-wire-fence>Olověný ostnatý drát</lead-barbed-wire-fence>
+    <lead-barbed-wire-fence-description>Těžký olověný ostnatý drát s dodatečnou radiační ochranou.</lead-barbed-wire-fence-description>
+
+    <quartz>Křemen</quartz>
+    <quartz-description>Hromada křemene.</quartz-description>
+
+    <silicone>Silikon</silicone>
+    <silicone-description>Prvek pro chemické procesy.</silicone-description>
+
+    <simple-circuit-board>Jednoduchá deska plošných spojů</simple-circuit-board>
+    <simple-circuit-board-description>Deska plošných spojů s některými polovodiči na ní.</simple-circuit-board-description>
+
+    <rutile>Rutil</rutile>
+    <rutile-description>Minerál obsahující titanium. Základní surovina pro výrobu titanu a titanových slitin.</rutile-description>
+
+    <titanium-ingot>Titanový ingot</titanium-ingot>
+    <titanium-ingot-description>Lehký a vysoce odolný titanový ingot. Kombinuje pevnost oceli s nízkou hmotností.</titanium-ingot-description>
+
+    <dynamite>Dynamit</dynamite>
+    <dynamite-description>Výbušnina s vysokou ničivou silou. Používá se pro těžbu a demolice.</dynamite-description>
+
+    <gunpowder>Střelný prach</gunpowder>
+    <gunpowder-description>Výbušná směs používaná jako pohonná hmota pro projektily a pyrotechniku.</gunpowder-description>
+
+    <artillery-shells>Dělostřelecké granáty</artillery-shells>
+    <artillery-shells-description>Výbušné granáty pro dělostřelecké věže. Způsobují masivní poškození na velkých plochách.</artillery-shells-description>
+
+    <silver-ore>Stříbrná ruda</silver-ore>
+    <silver-ore-description>Vzácná stříbrná ruda s vynikajícími vodivými vlastnostmi.</silver-ore-description>
+
+    <silver-ingot>Stříbrný ingot</silver-ingot>
+    <silver-ingot-description>Čistý stříbrný ingot s nejlepší elektrickou vodivostí ze všech kovů.</silver-ingot-description>
+
+    <silver-block>Stříbrný blok</silver-block>
+    <silver-block-description>Lesklý blok z čistého stříbra. Vynikající pro pokročilé elektronické aplikace.</silver-block-description>
+
+    <silver-pole>Stříbrná tyč</silver-pole>
+    <silver-pole-description>Elegantní stříbrná tyč s vynikajícími vodivými vlastnostmi.</silver-pole-description>
+
+    <silver-plate>Stříbrný plech</silver-plate>
+    <silver-plate-description>Tenký stříbrný plech s maximální elektrickou vodivostí.</silver-plate-description>
+
+    <silver-pipe>Stříbrná trubka</silver-pipe>
+    <silver-pipe-description>Prémiová trubka z čistého stříbra s antibakteriálními vlastnostmi.</silver-pipe-description>
+
+    <silver-cable>Stříbrný kabel</silver-cable>
+    <silver-cable-description>Vysoce výkonný kabel ze stříbra s nejlepší vodivostí.</silver-cable-description>
+
+    <silver-mesh>Stříbrná síť</silver-mesh>
+    <silver-mesh-description>Jemná stříbrná síť s antibakteriálními a filtračními vlastnostmi.</silver-mesh-description>
+
+    <silver-barbed-wire-fence>Stříbrný ostnatý drát</silver-barbed-wire-fence>
+    <silver-barbed-wire-fence-description>Prémiový ostnatý drát ze stříbra s dodatečnými antibakteriálními vlastnostmi.</silver-barbed-wire-fence-description>
+
+    <sulfur-ore>Sírová ruda</sulfur-ore>
+    <sulfur-ore-description>Žlutá sírová ruda s charakteristickým zápachem. Základní složka výbušnin a chemikálií.</sulfur-ore-description>
+
+    <tungsten-ore>Wolframová ruda</tungsten-ore>
+    <tungsten-ore-description>Extrémně tvrdá wolframová ruda s nejvyšší teplotou tání ze všech kovů.</tungsten-ore-description>
+
+    <bauxite-ore>Bauxitová ruda</bauxite-ore>
+    <bauxite-ore-description>Základní ruda pro výrobu hliníku. Obsahuje vysoké koncentrace oxidu hlinitého.</bauxite-ore-description>
+
+    <aluminum-ore>Hliníková ruda</aluminum-ore>
+    <aluminum-ore-description>Lehká hliníková ruda s vynikající odolností proti korozi.</aluminum-ore-description>
+
+    <aluminum-ingot>Hliníkový ingot</aluminum-ingot>
+    <aluminum-ingot-description>Lehký hliníkový ingot s vynikajícím poměrem pevnosti k hmotnosti.</aluminum-ingot-description>
+
+	<zinc-ore>Zinková ruda</zinc-ore>
+	<zinc-ore-description>Zinková ruda používaná pro galvanizaci a výrobu slitin. Poskytuje vynikající korózní ochranu.</zinc-ore-description>
+
+	<solvent-red>Červené rozpouštědlo</solvent-red>
+	<solvent-red-description>Chemické rozpouštědlo, nutné k extrakci lucra ve stabilní formě.</solvent-red-description>
+
+	<solvent-green>Zelené rozpouštědlo</solvent-green>
+	<solvent-green-description>Chemické rozpouštědlo, nutné k extrakci lucra ve stabilní formě. Silnější než červené rozpouštědlo.</solvent-green-description>
+
+	<solvent-blue>Modré rozpouštědlo</solvent-blue>
+	<solvent-blue-description>Chemické rozpouštědlo, nutné k extrakci lucra ve stabilní formě. Silnější než zelené rozpouštědlo.</solvent-blue-description>
+
+    <glass>Sklo</glass>
+    <glass-description>Skleněné desky.</glass-description>
+
+	<item-lock>Zamknout slot</item-lock>
+	<item-lock-description>Vyprázdnit všechny předměty a zamknout slot před přijímáním nových předmětů.</item-lock-description>
+
+	<item-any>Přijímat cokoliv</item-any>
+	<item-any-description>Nastavit slot na přijímání jakéhokoliv předmětu.</item-any-description>
+</Translations>

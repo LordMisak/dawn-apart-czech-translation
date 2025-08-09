@@ -1,0 +1,56 @@
+﻿<Translations>
+    <Settings>Nastavení</Settings>
+    <ChunkPosition>Pozice chunku</ChunkPosition>
+    <VoxelPosition>Pozice voxelu</VoxelPosition>
+    <RequiredItems>Požadované předměty</RequiredItems>
+    <ItemStorage>Sklad předmětů</ItemStorage>
+    <InputIngredients>Vstupní ingredience</InputIngredients>
+    <ResultStorage>Sklad výsledků</ResultStorage>
+    <CraftingSpeed>Rychlost výroby</CraftingSpeed>
+    <TransportTime>Čas přepravy</TransportTime>
+    <Programming>Programování</Programming>
+    <Speed>Rychlost</Speed>
+    <Fuel>Palivo</Fuel>
+    <Expired>Vypršelo</Expired>
+    <Completed>Dokončeno</Completed>
+    <Failed>Neúspěšné</Failed>
+    <InProgress>Probíhá</InProgress>
+    <ChangeRecipe>Změnit recept</ChangeRecipe>
+    <QueueRecipe>Zařadit recept</QueueRecipe>
+    <Program>Program</Program>
+    <Blueprints>Plány</Blueprints>
+    <BlueprintsDescription>Jděte ven a postavte něco skvělého!</BlueprintsDescription>
+    <Revert>Vrátit</Revert>
+    <Apply>Použít</Apply>
+    <OkConfirm>Ok</OkConfirm>
+    <Back>Zpět</Back>
+    <Reset>Resetovat</Reset>
+    <Prospectors>Průzkumníci</Prospectors>
+    <Copy>Kopírovat</Copy>
+    <Paste>Vložit</Paste>
+    <Cancel>Zrušit</Cancel>
+    <Save>Uložit</Save>
+    <Continue>Pokračovat</Continue>
+    <Accept>Přijmout</Accept>
+    <Decline>Odmítnout</Decline>
+    <Abort>Přerušit</Abort>
+    <Delete>Smazat</Delete>
+    <Production>Výroba</Production>
+    <Productivity>Produktivita</Productivity>
+    <Requirements>Požadavky</Requirements>
+    <Needs>Potřeby</Needs>
+    <ChangeProduct>Změnit produkt</ChangeProduct>
+    <Hp>HP</Hp>
+    <Pos>POZ</Pos>
+    <Id>ID</Id>
+    <Lights>Světla</Lights>
+    <Intensity>Intenzita</Intensity>
+    <None>Žádné</None>
+    <Yes>Ano</Yes>
+    <No>Ne</No>
+    <Off>Vypnuto</Off>
+    <Open>Otevřít</Open>
+    <Close>Zavřít</Close>
+    <MinutesShort>min.</MinutesShort>
+    <Lorem>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Lorem>
+</Translations>

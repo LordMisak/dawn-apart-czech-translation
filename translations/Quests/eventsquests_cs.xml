@@ -1,0 +1,365 @@
+﻿<Translations>
+    <!--Events-->
+    <earthquake_t>Zemětřesení!</earthquake_t>
+    <earthquake_d>Došlo k zemětřesení!</earthquake_d>
+
+    <EventShipTradeRequestTitle>Obchodní žádost</EventShipTradeRequestTitle>
+    <EventShipTradeRequestDescriptionAvailable>Obchod s {0} ({1}) je dostupný za {2}.&lt;br&gt;Nejdřívější příjezd je za {3}.</EventShipTradeRequestDescriptionAvailable>
+    <EventShipTradeRequestDescriptionAccepted>{0} ({1}) dorazí na {2} za {3}.&lt;br&gt;Nakládka musí být dokončena před {4}. Jinak loď odejde bez platby.</EventShipTradeRequestDescriptionAccepted>
+    <EventShipTradeRequestDescriptionLanded>{0} ({1}) přistála na {2}.&lt;br&gt;Nakládka musí být dokončena před {3}. Jinak loď odejde bez platby.</EventShipTradeRequestDescriptionLanded>
+    <EventShipTradeRequestDescriptionLeaving>{0} ({1}) odlétá z {2}.</EventShipTradeRequestDescriptionLeaving>
+    <EventShipTradeRequestDescriptionExpired>Obchod vypršel.</EventShipTradeRequestDescriptionExpired>
+    <EventShipTradeRequestDescriptionCompleted>Obchod byl úspěšně dokončen.</EventShipTradeRequestDescriptionCompleted>
+
+    <demo_end_t>Děkujeme!</demo_end_t>
+    <demo_end_d>Řediteli,
+
+Demo Dawn Apart zde končí, po pěti dnech na Sirius B 3. Bohužel to znamená, že vás musíme prozatím zbavit funkcí ředitele.
+
+Dobrá zpráva je, že &lt;b&gt;jste vytěžil {0} Lucrum 115, což je více než {1}% hráčů!&lt;/b&gt;
+
+Můžete si demo zahrát znovu, abyste zlepšili toto skóre, nebo přidat Dawn Apart do wishlistu na &lt;link="steamWishlist"&gt;&lt;color=#2A86FD&gt;Steamu&lt;/color&gt;&lt;/link&gt;.
+
+Susuke Myamoto
+SVP HR</demo_end_d>
+    
+    <!--Quests-->
+    <distress_t>Nouzový signál</distress_t>
+    <distress_d>Náš radar zachytil to, co se zdá být nouzovým signálem z nedalekého útesu, měli bychom to prozkoumat</distress_d>
+
+    <!--Quest Steps-->
+    <ConstructQuestStepObjectiveShort>&lt;b&gt;{0}&lt;/b&gt; Nainstalovat &lt;b&gt;{1}&lt;/b&gt; na plán</ConstructQuestStepObjectiveShort>
+    <ConstructQuestStepObjective>&lt;b&gt;{0}&lt;/b&gt; Nainstalovat &lt;b&gt;{1}&lt;/b&gt; na plán</ConstructQuestStepObjective>
+
+    <CraftQuestStepObjectiveShort>&lt;b&gt;{0}&lt;/b&gt; Vyrobit &lt;b&gt;{1}&lt;/b&gt; pomocí průzkumníků nebo strojů</CraftQuestStepObjectiveShort>
+    <CraftQuestStepObjective>&lt;b&gt;{0}&lt;/b&gt; Vyrobit &lt;b&gt;{1}&lt;/b&gt; pomocí průzkumníků nebo strojů</CraftQuestStepObjective>
+
+    <GatherItemQuestStepObjectiveShort>&lt;b&gt;{0}&lt;/b&gt; Mít &lt;b&gt;{1}&lt;/b&gt; ve skladech nebo na dopravních pásech</GatherItemQuestStepObjectiveShort>
+    <GatherItemQuestStepObjective>&lt;b&gt;{0}&lt;/b&gt; Mít &lt;b&gt;{1}&lt;/b&gt; ve skladech nebo na dopravních pásech</GatherItemQuestStepObjective>
+
+    <MineItemQuestStepObjectiveShort>&lt;b&gt;{0}&lt;/b&gt; Vytěžit &lt;b&gt;{1}&lt;/b&gt; pomocí průzkumníků</MineItemQuestStepObjectiveShort>
+    <MineItemQuestStepObjective>&lt;b&gt;{0}&lt;/b&gt; Vytěžit &lt;b&gt;{1}&lt;/b&gt; pomocí průzkumníků</MineItemQuestStepObjective>
+
+    <ReadMessageQuestStepObjectiveShort>Otevřít zprávu v okně událostí</ReadMessageQuestStepObjectiveShort>
+    <ReadMessageQuestStepObjective>Přečíst tuto zprávu</ReadMessageQuestStepObjective>
+
+    <TradeQuestStepObjective>Dokončit obchod před &lt;b&gt;{0}&lt;/b&gt;</TradeQuestStepObjective>
+    <TradeQuestStepObjectiveShort>Obchod dokončen</TradeQuestStepObjectiveShort>
+
+    <CutTreeQuestStepObjectiveShort>&lt;b&gt;{0}&lt;/b&gt; Pokácet &lt;b&gt;{1}&lt;/b&gt;</CutTreeQuestStepObjectiveShort>
+    <CutTreeQuestStepObjective>&lt;b&gt;{0}&lt;/b&gt; Pokácet &lt;b&gt;{1}&lt;/b&gt;</CutTreeQuestStepObjective>
+
+    <PlaceBlueprintQuestStepObjectiveShort>&lt;b&gt;{0}&lt;/b&gt; Umístit plán &lt;b&gt;{1}&lt;/b&gt;</PlaceBlueprintQuestStepObjectiveShort>
+    <PlaceBlueprintQuestStepObjective>&lt;b&gt;{0}&lt;/b&gt; Umístit plán &lt;b&gt;{1}&lt;/b&gt;</PlaceBlueprintQuestStepObjective>
+
+    <SetPriorityQuestStepObjectiveShort>Změnit prioritu &lt;b&gt;{0}&lt;/b&gt; na &lt;b&gt;{1}&lt;/b&gt;</SetPriorityQuestStepObjectiveShort>
+    <SetPriorityQuestStepObjective>Změnit prioritu &lt;b&gt;{0}&lt;/b&gt; na &lt;b&gt;{1}&lt;/b&gt;</SetPriorityQuestStepObjective>
+
+    <Low>nízkou</Low>
+    <High>vysokou</High>
+    <Maximum>maximální</Maximum>
+    
+    <!--Tutorials-->
+    <q-planetfall>Přistání na planetě</q-planetfall>
+    <q-planetfall-subject>Úspěšně jste přistáli na planetě</q-planetfall-subject>
+    <q-planetfall-description>Řediteli,
+
+máme potvrzení, že jste úspěšně přistáli na Sirius B 3. Gratulujeme. Důležité zprávy a příkazy budou přicházet tudy. Věnujte jim pozornost, abyste mohli pokračovat.
+
+Vaše loď - Magpie - byla přeměněna na vaši dočasnou základnu. Můžete ji rozebrat na materiály. Připravte svou přistávací skupinu a připravte se na těžbu Lucrum 115 co nejdříve.
+
+Budeme v kontaktu.</q-planetfall-description>
+
+    <q-workbenches-and-you>Pracovní stoly</q-workbenches-and-you>
+    <q-workbenches-and-you-subject>Nainstalovat pracovní stůl</q-workbenches-and-you-subject>
+    <q-workbenches-and-you-description>Řediteli,
+
+abyste mohli vyrábět stroje z materiálů, potřebujete pracovní stůl. Jeden jsme vám poskytli v Magpie spolu s dalšími základními zdroji.
+
+Pro jeho instalaci musíte nejprve umístit plán.
+
+Přejděte do menu Plány v levém dolním rohu a vyberte Pracovní stůl. Umístěte ho a pracovník ho vezme z nákladového prostoru Magpie.</q-workbenches-and-you-description>
+
+    <q-work-the-workbench>Jak vyrábět</q-work-the-workbench>
+    <q-work-the-workbench-subject>Vyrobit pec na mechanickém pracovním stole a nainstalovat ji</q-work-the-workbench-subject>
+    <q-work-the-workbench-description>Řediteli,
+
+většinu strojů si budete muset vyrobit sami. V rámci tutoriálu jsou všechny potřebné materiály pro recept pece již ve vašem skladu.
+
+Vyberte mechanický pracovní stůl a klikněte na "Zařadit recept". Poté vyberte pec. Průzkumník shromáždí všechny potřebné ingredience a vyrobí ji.
+
+Jakmile bude pec vyrobena, můžete ji umístit prostřednictvím menu plánů na vhodné místo. Pro vaši bezpečnost doporučuji postavit ji poblíž vaší přistávací skupiny.</q-work-the-workbench-description>
+
+    <q-carpentry>Truhlářství</q-carpentry>
+    <q-carpentry-subject>Vyrobit truhlářský stůl a postavit ho</q-carpentry-subject>
+    <q-carpentry-description>Řediteli,
+
+některé stroje a produkty lze vyrábět pouze na určitých pracovních stolech nebo strojích.
+Vše související se zpracováním dřeva se děje na truhlářském stole.
+
+Pokácejte několik stromů, abyste jeden mohli postavit na mechanickém pracovním stole a umístit ho prostřednictvím menu plánů na vhodné místo.
+
+Pracovníci nemusí kácet dřevo, protože jsou zaneprázdněni jinými úkoly. Můžete učinit kácení dřeva jejich vyšší prioritou prostřednictvím okna priorit (nahoře na obrazovce).
+Zvyšte v matici alespoň jednoho pracovníka prioritu pro kácení dřeva.</q-carpentry-description>
+
+    <q-turn-up-the-heat>Těžba a tavení</q-turn-up-the-heat>
+     <q-turn-up-the-heat-subject>Najít měděnou rudu a roztavit měděný ingot</q-turn-up-the-heat-subject>
+    <q-turn-up-the-heat-description>Řediteli,
+
+pec je nejzákladnější konvertor. Taví rudy jako měď nebo železo na ingoty.
+
+Najděte ve svém okolí měděnou rudu, vytěžte ji a roztavte na měděné ingoty ve vaší peci.
+
+Měděná ruda je nahnědlá a lze ji najít jako výskyty na zemi. Použijte příkaz těžby, aby ji vaši průzkumníci vytěžili ze země.
+
+Jakmile vytěží měděnou rudu, vyberte pec a klikněte na "Změnit recept" a vyberte měděný ingot.
+
+Připomínka: Pec potřebuje uhlí nebo dřevo jako palivo. Také nějaké najděte.</q-turn-up-the-heat-description>
+
+    <q-breaking-ground>Těžební vrtáky</q-breaking-ground>
+    <q-breaking-ground-subject>Vyrobit důl a nainstalovat ho</q-breaking-ground-subject>
+    <q-breaking-ground-description>Řediteli,
+    
+vyrobte těžební vrták s měděnými ingoty, které jste právě roztavili.
+
+Umístěte plán dolu tak, aby obdélníková žlutá oblast překrývala rudní ložisko.</q-breaking-ground-description>
+
+    <q-bedknobs-and-barracks>Spánek</q-bedknobs-and-barracks>
+    <q-bedknobs-and-barracks-subject>Postavit dvě krytá místa na spaní</q-bedknobs-and-barracks-subject>
+    <q-bedknobs-and-barracks-description>Řediteli,
+
+vaši průzkumníci se musí odpočinout, jinak se stanou neefektivními a mohou se stát nehody.
+Vyrobte dvě postele ze dřeva a umístěte dva plány postelí někde v krytu.</q-bedknobs-and-barracks-description>
+
+    <q-needful-things>Toalety a jídlo</q-needful-things>
+    <q-needful-things-subject>Postavit toaletu a kantýnu</q-needful-things-subject>
+    <q-needful-things-description>Řediteli,
+
+pracovníci občas možná budou muset jít na toaletu. Umístěte plány záchodu a umyvadla někam vhodně.
+Vaši pracovníci by je měli nainstalovat okamžitě, jelikož jsou ve vašem skladu z nákladu Magpie již připraveny.
+
+Udělejte totéž s plánem automatu Mr. Soylent.</q-needful-things-description>
+
+    <q-get-back-to-work>Najít a těžit Lucrum 115</q-get-back-to-work>
+    <q-get-back-to-work-subject>Najít Lucrum 115 a začít těžbu</q-get-back-to-work-subject>
+    <q-get-back-to-work-description>Řediteli,
+
+prozkoumejte oblast kvůli ložisku Lucrum 115 a začněte ho těžit.
+
+Vaše Magpie má ve svém skladu Lucrum důl, který používá červené rozpouštědlo, chemikálii k rozpuštění Lucrum 115. Ujistěte se, že váš Lucrum důl je vždy správně umístěn nad ložiskem Lucrum 115, jinak plýtvá drahým rozpouštědlem.
+Červené rozpouštědlo můžete získat obchodováním nebo vlastní výrobou v chemické laboratoři nebo chemickém reaktoru.
+
+Ujistěte se, že máte kryté skladovací kapacity a buďte připraveni odrazit jakoukoliv potenciální sabotáž, dokud nebudeme schopni vyzvednout první dávku.</q-get-back-to-work-description>
+
+    <q-stocking-stockpiles>Automatizace je klíčem k efektivitě</q-stocking-stockpiles>
+    <q-stocking-stockpiles-subject>Postavit sklad</q-stocking-stockpiles-subject>
+    <q-stocking-stockpiles-description>Řediteli,
+
+nezapomeňte postavit skladovací zařízení pro všechno Lucrum 115, které se chystáme vyzvednout.
+
+Můžete přidat sklady k výstupům strojů pro automatické shromažďování produktů. Pro přepravu předmětů klikněte pravým tlačítkem na stroje nebo sklady.
+
+Pamatujte: Automatizace je klíčem k efektivitě.</q-stocking-stockpiles-description>
+
+    <q-your-first-spaceport>Nainstalovat kosmodrom</q-your-first-spaceport>
+    <q-your-first-spaceport-subject>Nainstalovat kosmodrom</q-your-first-spaceport-subject>
+    <q-your-first-spaceport-description>Řediteli,
+
+abychom vám mohli poslat první loď na vyzvednutí naší první dávky Lucrum 115, musíte postavit kosmodrom.
+
+Kosmodromy jsou nezbytné pro obchod s Kobayashi Schwarz a dalšími obchodníky procházejícími okolo.
+
+Ujistěte se, že váš první kosmodrom má vyrovnanou přistávací zónu 3x3 políček. Musí být dokonale vyrovnaná, jinak budou deaktivovány a obchody mohou být ztraceny.
+
+Pro vyrovnání terénu můžete použít příkaz Vyrovnání z menu příkazů.
+V případě, že úkol nikdo nepřebírá, zkuste zvýšit prioritu těžby pro některé průzkumníky.</q-your-first-spaceport-description>
+
+    <q-more-lucrum>Více Lucrum 115</q-more-lucrum>
+    <q-more-lucrum-subject>Více Lucrum 115</q-more-lucrum-subject>
+    <q-more-lucrum-description>Řediteli,
+        
+nyní si prohlédněte dostupné obchody a ujistěte se, že dosáhnete kvóty Lucrum 115 včas.
+
+Pokud se vám nepodaří dodat požadované Lucrum 115, budete čelit vážným následkům. Proto by zájmy Kobayashi Schwarz měly být vaší hlavní starostí.
+
+Hodně štěstí.</q-more-lucrum-description>
+
+    <q-feedback>Zpětná vazba</q-feedback>
+    <q-feedback-subject>Zpětná vazba</q-feedback-subject>
+    <q-feedback-description>Ahoj,
+
+tady Tony + Thilo z Industrial Technology and Witchcraft. Jsme vývojáři Dawn Apart a doufáme, že se vám hra zatím líbí!
+Pokud máte jakoukoliv zpětnou vazbu, kterou nám chcete ohledně hry dát, klikněte na tlačítko "Dejte nám zpětnou vazbu" v menu Pauza.
+
+Pokud máte problém s jakoukoli mechanikou, stavte se na náš Discord server (modré tlačítko nahoře na obrazovce) a můžeme vám pomoci. Také Průvodce (tlačítko ? nahoře) je dobré místo, kde začít hledat odpovědi. Prosím však mějte na paměti, že toto je stále hra v Early Access a pracujeme na zlepšování s vaší zpětnou vazbou!
+
+Díky za hraní a užijte si hru!
+    </q-feedback-description>
+
+    <q-ks-trade-0>Kvóta 200 Lucrum rud</q-ks-trade-0>
+    <q-ks-trade-0-subject>Očekávaná kvóta 200 Lucrum rud</q-ks-trade-0-subject>
+    <q-ks-trade-0-description>Řediteli,
+
+máte za úkol dodat celkem &lt;b&gt;200 Lucrum rud&lt;/b&gt;.
+</q-ks-trade-0-description>
+
+    <q-ks-trade-1>Kvóta 400 Lucrum rud</q-ks-trade-1>
+    <q-ks-trade-1-subject>Očekávaná kvóta 400 lucrum rud za 5 dnů</q-ks-trade-1-subject>
+    <q-ks-trade-1-description>Řediteli,
+
+dodat &lt;b&gt;400 Lucrum rud&lt;/b&gt; během příštích &lt;b&gt;5 dnů&lt;/b&gt;.
+
+</q-ks-trade-1-description>
+
+    <q-ks-trade-2>Kvóta 1000 Lucrum rud</q-ks-trade-2>
+    <q-ks-trade-2-subject>Očekávaná kvóta 1000 lucrum rud za 5 dnů</q-ks-trade-2-subject>
+    <q-ks-trade-2-description>Řediteli,
+
+dodat &lt;b&gt;1000 Lucrum rud&lt;/b&gt; během příštích &lt;b&gt;5 dnů&lt;/b&gt;.
+
+</q-ks-trade-2-description>
+
+    <q-ks-trade-3>Kvóta 2000 Lucrum rud</q-ks-trade-3>
+    <q-ks-trade-3-subject>Očekávaná kvóta 2000 lucrum rud za 5 dnů</q-ks-trade-3-subject>
+    <q-ks-trade-3-description>Řediteli,
+
+dodat &lt;b&gt;2000 Lucrum rud&lt;/b&gt; během příštích &lt;b&gt;5 dnů&lt;/b&gt;.
+</q-ks-trade-3-description>
+
+    <q-ks-trade-4>Kvóta 500 Lucrum ingotů</q-ks-trade-4>
+    <q-ks-trade-4-subject>Očekávaná kvóta 500 lucrum ingotů</q-ks-trade-4-subject>
+    <q-ks-trade-4-description>Řediteli,
+
+dodat &lt;b&gt;500 Lucrum ingotů&lt;/b&gt;.
+</q-ks-trade-4-description>
+
+    <q-ks-trade-6>Nový obchod</q-ks-trade-6>
+    <q-ks-trade-6-subject> </q-ks-trade-6-subject>
+    <q-ks-trade-6-description>Řediteli,
+
+je dostupný další obchod.</q-ks-trade-6-description>
+
+    <q-ks-trade-7>Nový obchod</q-ks-trade-7>
+    <q-ks-trade-7-subject> </q-ks-trade-7-subject>
+    <q-ks-trade-7-description>Řediteli,
+
+je dostupný další obchod.</q-ks-trade-7-description>
+
+    <q-ks-trade-8>Nový obchod</q-ks-trade-8>
+    <q-ks-trade-8-subject> </q-ks-trade-8-subject>
+    <q-ks-trade-8-description>Řediteli,
+
+je dostupný další obchod.</q-ks-trade-8-description>
+
+    <q-ks-trade-9>Nový obchod</q-ks-trade-9>
+    <q-ks-trade-9-subject> </q-ks-trade-9-subject>
+    <q-ks-trade-9-description>Řediteli,
+
+je dostupný další obchod.</q-ks-trade-9-description>
+
+    <q-ks-trade-10>Nový obchod</q-ks-trade-10>
+    <q-ks-trade-10-subject> </q-ks-trade-10-subject>
+    <q-ks-trade-10-description>Řediteli,
+
+je dostupný další obchod.</q-ks-trade-10-description>
+
+    <q-ks-trade-11>Nový obchod</q-ks-trade-11>
+    <q-ks-trade-11-subject> </q-ks-trade-11-subject>
+    <q-ks-trade-11-description>Řediteli,
+
+je dostupný další obchod.</q-ks-trade-11-description>
+
+    <q-ks-item-trade-placeholder>Obchod</q-ks-item-trade-placeholder>
+    <q-ks-item-trade-placeholder-subject>Obchod</q-ks-item-trade-placeholder-subject>
+    <q-ks-item-trade-placeholder-description>Vážený průzkumníku,
+
+máme přebytek předmětů, které by vás mohly zajímat. Dodejte požadované předměty před vypršením této nabídky a ujistíme se, že je obdržíte.</q-ks-item-trade-placeholder-description>
+
+    <q-head-of-mining-signature>Shinsuke Miyamoto
+--
+Vedoucí těžebních operací
+Kobayashi Schwarz Corp.</q-head-of-mining-signature>
+    
+    <q-head-of-mining-signature2>S pozdravem,
+
+Shinsuke Miyamoto
+--
+Vedoucí těžebních operací
+Kobayashi Schwarz Corp.</q-head-of-mining-signature2>
+    
+    <q-head-of-mining-signature3>S přátelskými pozdravy,
+
+Shinsuke Miyamoto
+--
+Vedoucí těžebních operací
+Kobayashi Schwarz Corp.</q-head-of-mining-signature3>
+
+    <q-head-of-mining-signature-planetfall>Shinsuke Miyamoto
+
+PS: Stiskněte F2 pro přepnutí pohledu bez střechy, abyste se podívali dovnitř své lodi.
+PPS: Pro pohyb použijte WASD nebo kliknutí středním tlačítkem myši. Pravé kliknutí nebo Q a E pro otáčení kamery. Kolečko myši pro přiblížení.
+
+--
+Vedoucí těžebních operací
+Kobayashi Schwarz Corp.</q-head-of-mining-signature-planetfall>
+
+<q-developers-signature>Tony + Thilo
+--
+Vývojáři
+Industrial Technology and Witchcraft</q-developers-signature>
+    
+    <q-head-of-mining-signature-workbenches-and-you>Shinsuke Miyamoto
+
+PS: Máte více inventáře naložených ve vaší Magpie. Manifest je připojen k tomuto mailu níže.
+
+--
+Vedoucí těžebních operací
+Kobayashi Schwarz Corp.
+
+
+Manifest Magpie pro těžební operace Sirius B 3:
+- 2 postele
+- 1 automat Mr. Soylent
+- 4 lucerny
+- 40 žulových bloků
+- 35 měděných ingotů  
+- 50 červených rozpouštědel
+- 1 lucrum důl
+- 2 sklady
+- 1 kosmodrom
+- 1 umyvadlo a
+- 1 záchod</q-head-of-mining-signature-workbenches-and-you>
+    
+    <q-head-of-mining-signature-more-lucrum>Shinsuke Miyamoto
+
+PS: Pro naložení předmětů do kosmodromu je vyberte ve skladu pravým kliknutím na sklad, vyberte Lucrum 115 a levým kliknutím na kosmodrom vytvořte příkaz Přepravit do.
+
+--
+Vedoucí těžebních operací
+Kobayashi Schwarz Corp.</q-head-of-mining-signature-more-lucrum>
+    
+    <q-human-resources-signature>Aki Yukino
+--
+Lidské zdroje
+Kobayashi Schwarz Corp.</q-human-resources-signature>
+    
+    <q-human-resources-signature-needful-things>Aki Yukino
+--
+Lidské zdroje
+Kobayashi Schwarz Corp.</q-human-resources-signature-needful-things>
+
+    <tutorial-alpha-playtest>Dawn Apart - Early Access</tutorial-alpha-playtest>
+    <tutorial-alpha-playtest-description>Ahoj!
+
+Vítejte v Dawn Apart a děkujeme za váš zájem o naši hru. Dawn Apart je simulace automatizace kolonie na cizí planetě Sirius B 3.
+
+Na tomto projektu pracujeme už tři roky a vytváříme zážitek, který jsme vždy chtěli vytvořit. Jsme nadšeni, že si ho nyní můžete vyzkoušet.
+
+Dawn Apart však nevytváříme jen my vývojáři - každý den nám pomáhá mnoho dalších lidí a i vy se můžete zapojit. Připojte se k naší Glass Factory na Discordu (tlačítko Discord nahoře na obrazovce) a staňte se součástí naší komunity.
+
+Protože je toto stále práce v průběhu, chybí obsah - jako nepřátelé - a můžete narazit na chyby. Pokud ano, stiskněte oranžové tlačítko a nahlaste je, my se o zbytek postaráme.
+
+Pro zobrazení více herních zpráv jednoduše stiskněte tlačítko Zpět nahoře v tomto okně.
+
+Užijte si to!</tutorial-alpha-playtest-description>
+</Translations>

@@ -1,0 +1,9 @@
+<Translations>
+    <GameSeed>Seed:</GameSeed>
+    <StartNewWorld>Začít novou hru</StartNewWorld>
+    <PlaceholderGameSeed>Zadejte seed...</PlaceholderGameSeed>
+    
+    <WorldGenPipeline>Pipeline generování světa:</WorldGenPipeline>
+    <PremadeWorldGen>Sirius B 3</PremadeWorldGen>
+    <ProceduralWorldGen>Procedurální</ProceduralWorldGen>
+</Translations>

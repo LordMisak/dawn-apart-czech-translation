@@ -1,0 +1,12 @@
+<Translations>
+	<PauseMenuTitle>Pozastaveno</PauseMenuTitle>
+	<QuitToMenu>Ukončit do menu</QuitToMenu>
+	<Quit>Ukončit</Quit>
+	<WorldSeedDisplay>Seed: {0}</WorldSeedDisplay>
+	<QuitToMenuInfo>Opravdu se chcete vrátit do hlavního menu?
+
+Veškerý neuložený postup bude ztracen.</QuitToMenuInfo>
+	<QuitGameInfo>Opravdu chcete ukončit hru?
+
+Veškerý neuložený postup bude ztracen.</QuitGameInfo>
+</Translations>

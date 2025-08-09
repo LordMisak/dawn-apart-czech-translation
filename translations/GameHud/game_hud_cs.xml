@@ -1,0 +1,231 @@
+<Translations>
+	<Construct>Instalovat</Construct>
+	<ConstructTooltip>Umístit plány&lt;br&gt;Klávesa: {0}</ConstructTooltip>
+	<CloseCategoryTooltip>Zavřít kategorii&lt;br&gt;Klávesa: {0}</CloseCategoryTooltip>
+	
+	<TerraformTooltip>Terraformovat terén&lt;br&gt;Klávesa: {0}</TerraformTooltip>
+	<GridTerraformTooltip>Terraformování založené na mřížce&lt;br&gt;Klávesa: {0}</GridTerraformTooltip>
+	<DynamicTerraformTooltip>Zvýšit nebo snížit terén k nejbližší mřížce&lt;br&gt;Klávesa: {0}</DynamicTerraformTooltip>
+	<LevelTerraformTooltip>Vyrovnat terén na výšku kurzoru&lt;br&gt;Klávesa: {0}</LevelTerraformTooltip>
+	<IncreaseTerraformTooltip>Zvýšit výšku terénu k nejbližší mřížce&lt;br&gt;Klávesa: {0}</IncreaseTerraformTooltip>
+	<DecreaseTerraformTooltip>Snížit výšku terénu k nejbližší mřížce&lt;br&gt;Klávesa: {0}</DecreaseTerraformTooltip>
+	
+	<Deconstruct>Odinstalovat</Deconstruct>
+	<DeconstructTooltip>Odinstalovat umístěné budovy&lt;br&gt;Klávesa: {0}</DeconstructTooltip>
+
+	<ClearOrders>Vymazat příkazy</ClearOrders>
+	<ClearOrdersTooltip>Vymazat přiřazené příkazy&lt;br&gt;Klávesa: {0}</ClearOrdersTooltip>
+	<CutOrderTooltip>Přikázat dostupnému průzkumníkovi pokácet strom nebo keř&lt;br&gt;Klávesa: {0}</CutOrderTooltip>
+	<MineOrderTooltip>Přikázat dostupnému průzkumníkovi vytěžit zdroj&lt;br&gt;Klávesa: {0}</MineOrderTooltip>
+	<HaulOrderTooltip>Přikázat dostupnému průzkumníkovi přepravit předmět&lt;br&gt;Klávesa: {0}</HaulOrderTooltip>
+	<AllowOrderTooltip>Povolit všem průzkumníkům práci s předmětem&lt;br&gt;Klávesa: {0}</AllowOrderTooltip>
+	<DenyOrderTooltip>Zakázat všem průzkumníkům práci s předmětem&lt;br&gt;Klávesa: {0}</DenyOrderTooltip>
+	<TerraformOrderTooltip>Přikázat dostupnému průzkumníkovi vyrovnat kus země&lt;br&gt;Klávesa: {0}</TerraformOrderTooltip>
+	
+	<SafeZoneTooltip>Definovat políčko jako bezpečné pro průzkumníky&lt;br&gt;Klávesa: {0}</SafeZoneTooltip>
+	<UnsafeZoneTooltip>Odstranit bezpečnou zónu z políčka&lt;br&gt;Klávesa: {0}</UnsafeZoneTooltip>
+
+	<OffViewModeAbbr>Vyp</OffViewModeAbbr>
+	<LevelViewModeAbbr>Úrov</LevelViewModeAbbr>
+	<FoundationViewModeAbbr>Zákl</FoundationViewModeAbbr>
+	<RoofViewModeAbbr>Střec</RoofViewModeAbbr>
+	<OffViewModeTooltip>standardní režim pohledu&lt;br&gt;Klávesa: {0}</OffViewModeTooltip>
+	<LevelViewModeTooltip>skrýt objekty nad určitou výškou&lt;br&gt;Klávesa: {0}</LevelViewModeTooltip>
+	<FoundationViewModeTooltip>zvýšit/snížit zdi a skrýt objekty nad určitou výškou&lt;br&gt;Klávesa: {0}</FoundationViewModeTooltip>
+	<NoRoofViewModeTooltip>skrýt pouze střechu&lt;br&gt;Klávesa: {0}</NoRoofViewModeTooltip>
+
+	<RaisePlaneTooltip>zvýšit rovinu mřížky&lt;br&gt;Klávesa: {0}</RaisePlaneTooltip>
+	<LowerPlaneTooltip>snížit rovinu mřížky&lt;br&gt;Klávesa: {0}</LowerPlaneTooltip>
+	<CurrentPlaneHeightTooltip>aktuální výška mřížky</CurrentPlaneHeightTooltip>
+	
+	<ChangeBpSnapToTooltip>Přepnout automatické přichycení vybraných plánů k terénu</ChangeBpSnapToTooltip>
+	
+	<Debug>Ladění</Debug>
+	<DebugMenuTooltip>Ladicí funkce</DebugMenuTooltip>
+	<DebugDamageTooltip>způsobit {0} poškození kliknutím</DebugDamageTooltip>
+
+	<NumAmount>Množství: {0}</NumAmount>
+	
+	<InputKey>Klávesa: {0}</InputKey>
+	<Makes>Vyrábí</Makes>
+	<Takes>Bere</Takes>
+	<ToBuild>Pro stavbu {0}</ToBuild>
+	<MadeInText>Vyrobeno v</MadeInText>
+	<ToMakeText>Používá se k výrobě</ToMakeText>
+	<RecipeToCraft>Recept na výrobu</RecipeToCraft>
+	<MissingIngredients>Ingredience ve &lt;color="yellow"&gt;žluté&lt;/color&gt; jsou v nedostatku</MissingIngredients>
+	<ValidFuel>Platné palivo</ValidFuel>
+	<RecipeCraftTime>Čas výroby: {0}</RecipeCraftTime>
+	<BlueprintRequirements>Recept na výrobu</BlueprintRequirements>
+	<TooltipPinning>Stiskněte P pro připnutí nápovědy</TooltipPinning>
+	<TooltipUnpinning>Stiskněte P pro odpnutí nápovědy</TooltipUnpinning>
+	<Time>Čas</Time>
+
+	<InvalidExpansion>Žádná volná oblast</InvalidExpansion>
+	
+	<FuelSlot>Slot pro palivo</FuelSlot>
+	
+	<LevelDisplay>Úroveň {0}</LevelDisplay>
+	<NextLevel>Další úroveň:</NextLevel>
+	
+	<Day>Den</Day>
+	
+	<Swap>Vyměnit</Swap>
+	<Drop>Upustit</Drop>
+	<HandsFree>Volné ruce</HandsFree>
+	<NoWeapon>Žádná zbraň</NoWeapon>
+	<NoArmor>Žádné brnění</NoArmor>
+	<LocateEntityTooltip>Najít tuto entitu ve světě</LocateEntityTooltip>
+	<OpenPioneerModalTooltip>Otevřít firemní profil průzkumníka</OpenPioneerModalTooltip>
+	<DraftPioneerTooltip>Naverbovat průzkumníka</DraftPioneerTooltip>
+	<SelectedBuildingDemolishTooltip>Zdemolovat budovu</SelectedBuildingDemolishTooltip>
+
+	<EntityMultiselect>{0} vybráno</EntityMultiselect>
+	
+	<StockAll>Naskladnit vše</StockAll>
+	<EmptyAll>Vyprázdnit vše</EmptyAll>
+	<ResetAll>Resetovat vše</ResetAll>
+	<StockingUp>Skladování</StockingUp>
+	<Emptying>Vyprazdňování</Emptying>
+	<StockpileStackEmpty>Prázdný slot</StockpileStackEmpty>
+	<StockpileStackEmptyDescription>Tento slot přijme jakýkoli předmět.</StockpileStackEmptyDescription>
+	<StockpileStackLocked>Zamčený slot</StockpileStackLocked>
+	<StockpileStackLockedDescription>Tento slot nepřijme žádné předměty.</StockpileStackLockedDescription>
+	<StockpileStackHeight>skladů vysoko</StockpileStackHeight>
+	<StockpileSlotHeight>Tento slot je {0} úrovní vysoký</StockpileSlotHeight>
+	<StockpileSlotApplyClosed>Použít pro všechny uzavřené sloty</StockpileSlotApplyClosed>
+	<StockpileEmptyAllTooltip>Vyprázdnit a zamknout všechny sloty skladu.</StockpileEmptyAllTooltip>
+	
+	<DpsInfo>DPS: {0}</DpsInfo>
+	<DamageInfo>Poškození: {0}</DamageInfo>
+	<AttacksPerSecond>Útoků za sekundu: {0}</AttacksPerSecond>
+	<RangeInfo>Dosah: {0}</RangeInfo>
+	
+	<Events>Události</Events>
+	<Quests>Úkoly</Quests>
+	<Tutorial>Tutoriál</Tutorial>
+	<Company>Společnost</Company>
+	<Schedules>Rozvrhy</Schedules>
+
+	<Priorities>Priority</Priorities>
+	<CopyPriorities>Kopírovat priority</CopyPriorities>
+	<PastePriorities>Vložit priority</PastePriorities>
+	<CancelCopyPastePriorities>Zrušit kopírování priorit</CancelCopyPastePriorities>
+	
+	<HigherPriority>← Důležitější</HigherPriority>
+	<LowerPriority>Méně důležité →</LowerPriority>
+	<NoExperienceExplanation>Tmavé pozadí: Žádné zkušenosti</NoExperienceExplanation>
+	<ExperiencedExplanation>Bílé pozadí: Zkušený</ExperiencedExplanation>
+	<Forbidden>Zakázáno</Forbidden>
+	<HighestPriority>Nejvyšší priorita</HighestPriority>
+	<TalentExplanation>Zelený obrys: Nadaná dovednost</TalentExplanation>
+
+	<Messages>Zprávy</Messages>
+	<Message>Zpráva</Message>
+	
+	<OverviewTab>Přehled</OverviewTab>
+	<EventsTab>Události</EventsTab>
+
+	<NextPioneer>Další &gt;</NextPioneer>
+	<PreviousPioneer>&lt; Předchozí</PreviousPioneer>
+	
+	<PioneerHealth>Zdraví</PioneerHealth>
+	<PioneerHealthDescription>Udržujte průzkumníky zdravé, ztratí-li vše, odejdou do poslední hranice</PioneerHealthDescription>
+	<PioneerEnergy>Odpočinek</PioneerEnergy>
+	<PioneerEnergyDescription>Průzkumníci musí zůstat odpočatí, aby byli produktivní a vyhnuli se nákladným chybám</PioneerEnergyDescription>
+	<PioneerLoyalty>Loajalita</PioneerLoyalty>
+	<PioneerLoyaltyDescription>Kobayashi Schwarz očekává naprostou loajalitu svých zaměstnanců, udržujte průzkumníky spokojené nebo čelte vzpouře</PioneerLoyaltyDescription>
+	<PioneerBathroom>Toaleta</PioneerBathroom>
+	<PioneerBathroomDescription>Průzkumníci mají určité smradlavé potřeby. Stavějte toalety nebo se připravte uklízet jejich nepořádek. Musím jít! Musím jít hned!</PioneerBathroomDescription>
+	<PioneerHunger>Hlad</PioneerHunger>
+	<PioneerHungerDescription>Průzkumníci musí být nakrmeni, aby udrželi energii a pokračovali v práci. Podívejte se na Mr. Soylent pro chutné, výživné, na bílkoviny bohaté jídlo!</PioneerHungerDescription>
+	<PioneerHygiene>Hygiena</PioneerHygiene>
+	<PioneerHygieneDescription>Myjte si ruce, nebo se těšte na to, že budete pacientem nula další vesmírné chřipky.</PioneerHygieneDescription>
+	
+	<Event>Událost</Event>
+	<Quest>Úkol</Quest>
+	<Tutorial>Tutoriál</Tutorial>
+
+	<Anyone>Kdokoli</Anyone>
+	<AllItems>Všechny předměty</AllItems>
+	<HaulTo>Přepravit do ...</HaulTo>
+
+	<Anything>Cokoli</Anything>
+	<Work>Práce</Work>
+	<Recreation>Rekreace</Recreation>
+	
+	<Firefight>Hasit požár</Firefight>
+	<Sleep>Spát</Sleep>
+	<Doctor>Záchrana</Doctor>
+	<Cook>Vařit</Cook>
+	<Mine>Těžit</Mine>
+	<Terra>Terraformovat</Terra>
+	<Chop>Kácet</Chop>
+	<Craft>Vyrábět</Craft>
+	<Repair>Opravovat</Repair>
+	<Maintain>Udržovat</Maintain>
+	<Haul>Přepravovat</Haul>
+	<Clean>Uklízet</Clean>
+	<Clear>Vyčistit</Clear>
+	<Cut>Řezat</Cut>
+	<Allow>Povolit</Allow>
+	<Deny>Zakázat</Deny>
+	<Terraform>Vyrovnat</Terraform>
+
+	<FirefightExplanation>Hašení požárů.</FirefightExplanation>
+	<DoctorExplanation>Ošetřování raněných a přenášení neschopných průzkumníků do bezpečí.</DoctorExplanation>
+	<MineExplanation>Těžba zdrojů ze země.</MineExplanation>
+	<ChopExplanation>Kácení stromů a keřů.</ChopExplanation>
+	<ConstructExplanation>Instalace a odinstalace strojů a struktur.</ConstructExplanation>
+	<CraftExplanation>Výroba předmětů a plánů na pracovních stolech.</CraftExplanation>
+	<RepairExplanation>Oprava poškozených nebo rozbitých strojů a struktur.</RepairExplanation>
+	<MaintainExplanation>Údržba strojů a přeprava ingrediencí potřebných k jejich chodu.</MaintainExplanation>
+	<HaulExplanation>Přeprava předmětů z jednoho místa na druhé.</HaulExplanation>
+	
+	<Safe>Bezpečné</Safe>
+	<Unsafe>Nebezpečné</Unsafe>
+
+	<Botany>Botanika</Botany>
+	<Charisma>Charisma</Charisma>
+	<Construction>Stavba</Construction>
+	<Cooking>Vaření</Cooking>
+	<Crafting>Výroba</Crafting>
+	<Husbandry>Zemědělství</Husbandry>
+	<Medicine>Medicína</Medicine>
+	<Melee>Boj zblízka</Melee>
+	<Science>Věda</Science>
+	<Shooting>Střelba</Shooting>
+	<Mining>Těžba</Mining>
+	<WoodCutting>Kácení dřeva</WoodCutting>
+	
+	<MineGoapGoal>Těžit</MineGoapGoal>
+	<RepairGoapGoal>Opravit</RepairGoapGoal>
+	<ExtinguishGoapGoal>Uhasit</ExtinguishGoapGoal>
+	<CraftGoapGoal>Vyrobit</CraftGoapGoal>
+	<FellingGoapGoal>Pokácet</FellingGoapGoal>
+	<HaulGoapGoal>Přepravit</HaulGoapGoal>
+	<MoveGoapGoal>Přesunout</MoveGoapGoal>
+	<KillEntityGoapGoal>Zabít</KillEntityGoapGoal>
+	<MeleeEntityGoapGoal>Boj zblízka</MeleeEntityGoapGoal>
+	<RangedEntityGoapGoal>Střelba</RangedEntityGoapGoal>
+	<EatGoapGoal>Jíst</EatGoapGoal>
+	<SleepGoapGoal>Spát</SleepGoapGoal>
+	<DookGoapGoal>Použít</DookGoapGoal>
+	<WashGoapGoal>Umýt</WashGoapGoal>
+	<HealthRegenGoapGoal>Léčit</HealthRegenGoapGoal>
+	<TerraformGoapGoal>Terraformovat</TerraformGoapGoal>
+
+	<IncreaseBlueprintPriority>Zvýšit prioritu</IncreaseBlueprintPriority>
+	<DecreaseBlueprintPriority>Snížit prioritu</DecreaseBlueprintPriority>
+	<CancelBlueprint>Zrušit plán</CancelBlueprint>
+
+	<InDevelopmentInfo>Tato funkce je stále ve vývoji a ještě nemá žádnou funkcionalitu.
+Rozhraní je však funkční a dostupné k testování.
+Bude zahrnuto jako součást vydání Early Access.</InDevelopmentInfo>
+	
+	<BlueprintPlacementInvalidTerrain>Blokováno terénem</BlueprintPlacementInvalidTerrain>
+	<BlueprintPlacementInvalidObstacle>Blokováno překážkou</BlueprintPlacementInvalidObstacle>
+	
+	<Alarm>Alarm</Alarm>
+	<Help>Nápověda</Help>
+</Translations>

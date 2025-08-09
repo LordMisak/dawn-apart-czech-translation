@@ -1,0 +1,280 @@
+<Translations>
+    <hints-list>Užitečné tipy</hints-list>
+    <hints-list-description>Máte problémy? Zde je několik tipů:
+        
+- Prohlédněte si náklad přistávací lodi rozebrání střechy nebo použitím střešního pohledu stisknutím F2.
+        
+- Plány lze vždy umístit, i když nemáte požadovanou budovu. Po umístění budou zelené, pokud je lze postavit, a žluté, pokud nemáte budovu k výstavbě.
+
+- Najetím na libovolnou budovu a stisknutím C ji automaticky vyberete jako plán. Funguje to také pro stavební předměty na zemi nebo dopravních pásech.
+
+- Nemůžete umístit plán? Použijte příkaz Vyrovnání k vyrovnání povrchu planety.
+
+- Přiřaďte jednotlivé zdroje do skladů výběrem prázdného zásobníku.
+        
+- Každý sklad má 4 sloty pro zásobníky. Stavění do výšky zvyšuje kapacitu zásobníku, ale může uložit jen jeden typ předmětu na zásobník.
+
+- Pokud má stroj nepřipojený výstup, při umísťování plánů se objeví bílý indikátor.
+
+- Zkontrolujte okno událostí, přístupné z levého horního rohu, pro úkoly, události nebo příchozí obchodní požadavky.
+
+- Klikněte pravým tlačítkem na sklad nebo jakýkoli stroj obsahující předměty pro přepravu předmětů z něj.
+
+- Pokud jsou na zemi zdroje s ikonou zákazu, možná nemáte dostatek skladovacího prostoru.
+
+- Naverbujte prospektory jejich výběrem a stisknutím R. Naverbovaní prospektoři mají podtržená jména a budou vykonávat pouze bojové úkoly.
+
+- Můžete přepravovat předměty ze skladu do vesmírného přístavu vytvořením příkazu Přepravit. Klikněte pravým tlačítkem na sklad, vyberte předmět, který chcete přesunout, a poté klikněte levým tlačítkem na vesmírný přístav pro vydání příkazu.
+
+- Umístěte Mr. Soylenty pro krmení vašich prospektorů.</hints-list-description>
+
+    <h-roadmap-subject>Plán vývoje</h-roadmap-subject>
+    <h-roadmap-description>
+Především jsme neuvěřitelně vděční za vaši podporu při koupi Dawn Apart. Vaše důvěra a nadšení pro nás znamenají celý svět a poskytují nám příležitost realizovat hru našich snů. V tomto článku bychom se s vámi rádi podělili o naši ambiciózní vizi a budoucí plány pro hru. To, co dnes vidíte, je jen základem mnohem grándióznější vize.
+
+ Hluboké, propojené systémy
+V Dawn Apart "systémy" označují propojené herní mechaniky, které prohlubují komplexnost hry. Jednoduchá interakce—jako stroje vyrábějící předměty, prospektoři je sbírající a řešení jejich důsledků—ilustruje, jak více systémů vytváří poutavý herní zážitek.
+
+Umístíte postel do místnosti plné hlučných, přehřívajících se strojů. Jakýkoli prospektor nucený zde spát by vytrpěl mizernou noc, což by vedlo ke snížené morálce a snížené produktivitě. Časem by tato únava mohla vést k pracovním úrazům, vyhroceným hádkám nebo dokonce otevřenému násilí—to vše pocházející z jediného opomenutí.
+
+Nebo možná postavíte budovu ze dřeva—protože je levné—k ochraně vašich pecí před deštěm, protože voda je rychle uhasí. Pece však vyvrhují žhavě horké ingoty přímo na vaši dřevěnou podlahu, což téměř okamžitě zapálí požáry. Přechod na nehořlavou podlahu by tento problém vyřešil, ale proč neproměnit toto nebezpečí ve výhodu? Strategicky zapálí řadu dřevěných prken během útoku, vytvoří planoucí bariéru k překvapení a odrazení vašich nepřátel. Samozřejmě, uchovávání spalujících 400stupňových ingotů v uzavřené, špatně větrané místnosti může dobře dopadnout jen tak dlouho...
+
+Tato složitost je přesně to, co činí propojené systémy fascinujícími a mocnými, a my teprve škrábeme na povrchu jejich potenciálu s aktuální verzí hry.
+
+ Automatizace
+Automatizace v Dawn Apart nabízí odlišný zážitek ve srovnání s hrami jako Factorio. Zatímco Factorio vyniká v poskytování uspokojení prostřednictvím stálého, rytmického toku, Dawn Apart se více zaměřuje na posílení vašeho pocitu úspěchu, jak strategicky stavíte, plánujete a dokonce bourání vaše výtvory. Nakonec chceme vytvořit to, co s láskou nazýváme "efekt lávové lampy": okamžiky, kdy se opřete dozadu a obdivujete rušný spektákl—otáčející se ozubená kola, bzučící stroje a vaši pracovníci pilně pobíhající kolem. Je to radost ze sledování, jak vaše složité systémy ožívají.
+
+Záměrně jsme se rozhodli nereplikovat styl Factoria. Místo toho Dawn Apart kombinuje automatizaci s poutavou simulací kolonie, čímž vytváří vlastní jedinečný rytmus a měřítko. Představte si skutečné lidi pracující uvnitř vaší továrny—stavějící ji, optimalizující procesy, rozšiřující operace a bránící svůj domov.
+
+ Simulace kolonie
+Kombinování mechanik správy kolonie a automatizace vytváří jedinečně pohlcující zážitek—ten, který nás uchvátil od našich nejranějších brainstormingových sezení. V budoucích aktualizacích prohloubíme vaše vztahy s vašimi prospektory obohacením jejich příběhů, osobností a emocionální hloubky.
+
+Ve hře na konci může vaše kolonie růst na 100 nebo více prospektorů. Zatímco poznání každého jednotlivce nemusí být proveditelné, nevyhnutelně se silně připoutáte k některým z nich. Ztráta důvěryhodného, dlouholetého prospektora by měla být skutečně působivá, dokonce srdcervoucí, posilující vaši emocionální investici do příběhu vaší kolonie.
+
+Velmi obdivujeme RimWorld pro jeho schopnost přimět hráče hluboce pečovat o jejich kolonisty, proměňující každou ztrátu ve skutečně katastrofickou událost. Právě teď je ztráta prospektora v Dawn Apart nešťastná, ale nemá úplně emocionální váhu, kterou si představujeme. Naším cílem je vyvinout hru tak, aby každá ztráta byla smysluplná, významná a skutečně osobní.
+
+ Vylepšení UI
+Buďme upřímní—současné UI nevyhrává žádné soutěže krásy. Právě teď je čistě funkční, postavené na myšlence "forma následuje funkci". Nicméně významné vizuální vylepšení a intuitivnější uživatelský zážitek jsou již plánovány. Naší hlavní prioritou zůstává vylepšování hraní, ale určitě můžete očekávat elegantnější, více vyleštěné UI v nadcházejících aktualizacích. Inspirovali jsme se hrami, kde UI hluboce obohacuje hrání—myslíme na tituly jako Papers, Please nebo Planetenverteidigungskannonenkommandant (PVKK). Dokonce i malé detaily mohou udělat obrovský rozdíl, jako doslova vytažení zástrčky v detailním pohledu stroje k jeho vypnutí.
+
+ Rozšířený obchodní systém
+Současný obchodní systém je základní, primárně fungující jako "propad peněz" k udržení postupu hráče a napětí. Nicméně představujeme si bohatší obchodní prostředí. Očekávejte hromadné obchodníky, kteří přistávají přímo na vašem vesmírném přístavu, umožňujíc okamžité transakce. V určitém bodě vám dojdou zdroje k těžbě na planetě. Dlouhodobá hra bude, že budete moci kupovat předměty, které potřebujete pro vaši továrnu, a prodávat vaši produkci.
+
+Do budoucna sníme o hráčích vytvářejících vlastní vesmírné lodě z modulárních součástí k přímému obchodování s jinými frakcemi, vastně rozšiřujícími strategickou hloubku vašich ekonomických rozhodnutí.
+
+ Piráti a konkurenční frakce
+Připravte se na konflikt! Vesmírní piráti přicházejí, kompletní s vlastními základnami navrženými k narušení vašich operací. Pokusí se o nájezdy, začnou vlastní těžební operace a budou přímo soutěžit o zdroje jako cenný Lucrum 115. Čelení těmto pirátům—a jiným konkurenčním frakcím—poskytne vzrušující výzvy a strategické herní příležitosti.
+
+ Vězni a otroci
+Chceme vám dát svobodu naverbovat za rámec tradičního HR procesu—přivést postavy ze všech společenských vrstev, bez ohledu na jejich zázemí, původ nebo dokonce barvu kůže.
+
+Ano, to zahrnuje i modrou.
+
+ Vozidla
+Díky naší úspěšné Kickstarter kampani jsme již zavázáni představit mechy s vyměnitelnými moduly pro těžbu, terraformingu a boj. Kromě mechů zkoumáme další vozidla, včetně vlaků, tanků a dunových bugín, k plnému využití našeho destruktivního, interaktivního světa.
+
+ Budovy a konstrukční integrita
+Rádi bychom viděli hráče používající terén strategicky—ne jen jako kulisu, ale jako aktivní součást PvE výzvy. Chceme, aby prostředí záleželo, a to znamená odrazování od exploitů jako stavění fabrik vysoko v oblacích jen k vyhnutí se konfliktu s piráty nebo It'aky.
+
+K podpoře této vize zavádíme systém konstrukční integrity. Zpočátku zajistí, že budovy jsou konstrukčně zdravé—žádné více plovoucí továrny nebo nepodporované platformy. Časem se tento systém bude vyvíjet: budovy a továrny se zhroutí, pokud budou zničeny jejich podpory. Podlahy povolí a tyto zhroucení se mohou šířit, spouštějíce řetězové reakce v celé vaší základně.
+
+To přidá zcela novou vrstvu strategie a realismu do stavění základen—povzbuzující promyšlenou výstavbu a činící sabotáž nebo environmentální poškození skutečnou hrozbou.
+
+ Počasí, teplota, biomy, roční období
+Počasí bude hrát klíčovou roli v PvE zážitku Dawn Apart, zavádějíce dynamické výzvy jako déšť, bouře a sucha—každé hluboce integrované s jinými herními systémy.
+
+Vezměme si například zimu: slévárna může sloužit jako cenný zdroj tepla k udržení vaší továrny v teple. To je skvělé—pokud můžete zvládnout toxické výpary, které produkuje. Ale přijde léto, to stejné teplo se stane břemenem. Budete muset se přizpůsobit instalováním výměníků tepla nebo riskovat přehřátí podlahy vaší továrny.
+
+Počasí nebude jen kosmetické—bude testovat vaše plánování, přizpůsobivost a návrh systému na každém kroku.
+
+ Zdraví prospektorů
+Momentálně mohou být prospektoři zraněni nebo zabiti v boji—jakmile jejich zdravotní lišta dosáhne nuly, zemřou. Ale plánujeme jít mnohem dále.
+
+V budoucích aktualizacích chceme zavést podrobný zdravotní systém, kde budete moci vidět přesně která část těla nebo orgán byl zasažen. To otevírá dveře k modulárnímu léčení a augmentaci—nahrazování poškozených končetin nebo orgánů protézami.
+
+Kus po kusu byste mohli přestavět vaši zraněnou pracovní sílu na jakous cybertickou borg armádu. No, tak nějak. Myslíme více na užitečnost a přežití než na nezastavitelné stroje—ale stále velmi cool a strategický twist ve správě pracovní síly vaší kolonie.
+
+ Potřeby prospektorů
+Momentálně mají prospektoři základní potřeby—musí jít na záchod, umýt se, vzít si svačinu z automatu a trochu se vyspat. Ale to je jen začátek toho, co si představujeme pro jejich celkovou pohodu.
+
+Naším dlouhodobým cílem je dát prospektorům skutečné emoce, preference a vztahy. Představte si senior zaměstnance nucené spát v hlučné, přeplněné ubytovně—neočekávejte, že jejich loajalita zůstane dlouho vysoká. Nebo uvažte o automatu: jistě, je pohodlný, ale pokud je zásobený pouze nezdravým jídlem, výkon vašeho týmu se časem sníží.
+
+A pokud se věci stanou skutečně zoufalými—jako vyčerpání jídla úplně—no, řekněme jen, že vězni by mohli začít vypadat jako záchranné zásoby.
+
+Vaši prospektoři jsou víc než jen pracovníci. Jsou to lidé. A jak s nimi zacházíte, bude formovat úspěch—nebo neúspěch—vaší kolonie.
+
+ Vylepšení kvality života (QoL)
+Uznáváme, že některé současné mechaniky—jako vesmírný přístav, sklady, transportní systém a produkční fronty—mohou působit těžkopádně. Během Early Access implementujeme četná QoL vylepšení, zefektivňující a vylepšující hrání k poskytnutí uspokojivějšího zážitku.
+
+Děkujeme vám znovu za připojení se k nám na této vzrušující cestě. Dawn Apart teprve začíná a nemůžeme se dočkat, až tento neuvěřitelný vesmír vybudujeme společně s vámi!
+
+Tony + Thilo
+
+PS: Rádi bychom vás viděli připojit se k našemu Discord serveru a zapojit se do vývoje Dawn Apart. Stačí stisknout modré Discord tlačítko nahoře na obrazovce.
+</h-roadmap-description>
+
+    <h-camera-movement-subject>Ovládání kamery</h-camera-movement-subject>
+    <h-camera-movement-description>Použijte klávesy WASD nebo kliknutí prostředním tlačítkem myši k pohybu kamery.
+Pravé kliknutí nebo stisknutí Q a E k otáčení kamery. Můžete držet Shift pro 45° přírůstkové kroky s Q a E.
+Kolečko myši pro přiblížení a oddálení.
+
+V nastavení je možnost pro posouvání na okrajích obrazovky.</h-camera-movement-description>
+    
+    <h-view-modes-subject>Režimy zobrazení</h-view-modes-subject>
+    <h-view-modes-description>Můžete přepínat mezi různými režimy zobrazení stisknutím F1-F4 pro nahlédnutí do vašich budov.
+
+Stiskněte F1: Normální pohled. Zobrazuje vše tak, jak je.
+Stiskněte F2: Pohled bez střechy. Skryje všechny střešní dlaždice.
+Stiskněte F3: Pohled úrovně. Odstraní všechny zdi úplně. Použijte Tab a Ctrl k pohybu nahoru a dolů po úrovni.
+Stiskněte F4: Pohled základů. Odstraní zdi, ale zachová je viditelné. Také použijte Tab a Ctrl k pohybu nahoru a dolů po úrovni.
+</h-view-modes-description>
+    
+    <h-crafting-and-building-subject>Výroba a stavění</h-crafting-and-building-subject>
+    <h-crafting-and-building-description>K výrobě strojů je nejprve vyrobte pomocí Workbench nebo Assembleru, poté je položte jako plán. Pracovník je umístí. Stroje lze vyrábět přidáním do produkční fronty Workbench nebo výběrem jejich receptu v Assembleru.</h-crafting-and-building-description>
+    
+    <h-energy-subject>Energie</h-energy-subject>
+    <h-energy-description>Momentálně stroje nespotřebovávají energii. Nicméně budoucí aktualizace zavedou energetické mechaniky, včetně strojů vyžadujících napájení k funkci, sloupů k distribuci energie a generátorů nebo reaktorů k její výrobě.</h-energy-description>
+    
+    <h-fuel-subject>Palivo</h-fuel-subject>
+    <h-fuel-description>Některé stroje—jako Pec a Lucrum Tavič—vyžadují palivo k provozu, včetně zdrojů jako uhlí, koks nebo rozpouštědla.
+
+Prospektoři automaticky dodají palivo těmto strojům, když je potřeba. Pro plnou automatizaci můžete připojit podavače z blízkých skladů nebo dopravních pásů k jejich kontinuálnímu zásobování bez manuálního zásahu.</h-fuel-description>
+    
+    <h-hauling-subject>Přeprava</h-hauling-subject>
+    <h-hauling-description>K přepravě předmětů z jednoho místa na druhé klikněte pravým tlačítkem na stroj, sklad nebo předměty na zemi. Objeví se kontextová nabídka umožňující vybrat požadované množství. Následně klikněte levým tlačítkem na cílový stroj nebo sklad k vytvoření příkazu přepravy. Vaši kolonisté dokončí tento úkol, jakmile budou k dispozici. Prioritu přepravy můžete upravit v okně Priorit.</h-hauling-description>
+    
+    <h-priorities-subject>Priority</h-priorities-subject>
+    <h-priorities-description>Můžete upravit priority úkolů vašich prospektorů v okně Priorit klikáním na políčka. Čím plnější políčko, tím vyšší priorita. Zelený obrys indikuje, že prospektor je talentovaný v té konkrétní úloze a naučí se ji rychleji. Čím jasnější (bělejší) je pozadí políčka, tím zkušenější je prospektor v této oblasti. Pokud má více úkolů stejnou prioritu, úkoly dále vlevo budou mít přednost.</h-priorities-description>
+    
+    <h-modding-subject>Modování</h-modding-subject>
+    <h-modding-description>Můžete volně modovat Dawn Apart podle svých představ. Všechny assety a události jsou editovatelné prostřednictvím XML a VOX souborů umístěných v:
+
+Dawn Apart_Data\StreamingAssets\Data
+
+Laskavě žádáme, abyste distribuovali pouze vaše modifikace, ne celou hru. Užijte si tvorbu vašich modů—a určitě je s námi sdílejte na našem Discord serveru!</h-modding-description>
+    
+    <h-schedules-subject>Rozvrhy</h-schedules-subject>
+    <h-schedules-description>Můžete spravovat denní rozvrh prospektora v okně Rozvrh, přiřazujíce konkrétní časové sloty pro úkoly jako Práce, Spánek, Odpočinek nebo je nechat volné dělat Cokoliv. To vám umožňuje vytvářet strukturované směny, optimalizující pracovní tok vaší továrny.
+
+Momentálně systém plánování není plně vyvážený—prospektoři mohou pokračovat v práci, i když by měli mít přestávku. Buďte ujištěni, jsme si tohoto problému vědomi a bude řešen v budoucích aktualizacích.</h-schedules-description>
+    
+    <h-events-subject>Události</h-events-subject>
+    <h-events-description>Všechny komunikace, úkoly a tutoriálové kroky najdete v okně Událostí. Malý kroužek před názvem události indikuje, zda byla přečtena—vyplněný znamená nepřečtenou, prázdný znamená přečtenou.</h-events-description>
+    
+    <h-auto-feeding-subject>Automatické krmení</h-auto-feeding-subject>
+    <h-auto-feeding-description>Stroje jsou automaticky zásobovány prospektory, když mají málo paliva nebo ingrediencí. Prospektoři se snaží dělat své cesty efektivní dodáváním více než jen holého minima potřebného pro recept.
+
+Pokud chcete toto chování zakázat, můžete přepnout možnost Auto-Feeding v detailním pohledu stroje (hledejte ikonu s malou osobou). Když je vypnuto, prospektoři už nebudou tento stroj automaticky doplňovat nebo tankovat.
+
+Toto nastavení je automaticky zakázáno, pokud je stroj připojen k podavači nebo postaven přímo na výstupu jiného stroje.</h-auto-feeding-description>
+    
+    <h-outlets-subject>Výstupy</h-outlets-subject>
+    <h-outlets-description>Většina strojů má výstup, kde jsou vyvrhovány vyrobené předměty—to je zobrazeno jako bílá pohybující se krabice při umísťování plánu stroje. Ujistěte se, že výstup zůstává neblokovaný, aby k předmětům měli prospektoři přístup.
+
+Tyto výstupy můžete rozšířit připojením jiných strojů k vytvoření produkčních řetězců pro pokročilejší produkty. Alternativně můžete připojit dopravní pás nebo sklad k efektivnějšímu spravování a organizování výstupu.</h-outlets-description>
+    
+    <h-feeders-subject>Podavače</h-feeders-subject>
+    <h-feeders-description>Podavače se používají k automatickému přenosu předmětů mezi stroji, sklady nebo dopravními pásy. Jednoduše umístěte podavač tak, aby překrýval zdroj i cíl.
+
+Podavače budou přesunovat pouze předměty potřebné pro recept stroje. Nicméně, když jsou připojeny ke skladu nebo dopravnímu pásu, budou přesunovat jakékoliv dostupné předměty.
+
+Existují také specializované podavače:
+
+- Dlouhé podavače mají rozšířený dosah, umožňující flexibilnější umístění.
+
+- Programovatelné podavače vám umožňují specifikovat přesně které předměty přenést. K nastavení použijte rozbalovací nabídku v detailním pohledu podavače k výběru požadovaných předmětů.
+
+Podavače budou používat oba pruhy k odebírání předmětů, ale budou preferenčně brát z jednoho pruhu.
+</h-feeders-description>
+    
+    <h-conveyor-belts-subject>Dopravní pásy</h-conveyor-belts-subject>
+    <h-conveyor-belts-description>Dopravní pásy přepravují předměty automaticky, eliminujíce potřebu prospektorů je přepravovat. Každý pás má dva pruhy, umožňující pokročilejší nastavení—ať už optimalizujete propustnost nebo spravujete složité recepty.
+
+Stroje mohou výstupovat předměty přímo na dopravní pásy bez vyžadování podavače. Na druhou stranu, podavače lze použít k přesunu předmětů na dopravní pásy nebo z nich, když je potřeba. Při umísťování plánu sledujte malou bílou krabici—ukazuje, na který pruh předměty dopadnou.
+
+K odebírání předmětů z dopravního pásu musíte použít podavače (viz Podavače pro více informací)
+
+Vesmírné přístavy a rozdělovače mají vyhrazené vstupy, které lze přímo připojit k dopravním pásům, umožňujíce hladkou integraci do vaší logistické sítě. (Viz Výstupy pro více informací)</h-conveyor-belts-description>
+    
+    <h-splitters-subject>Rozdělovače</h-splitters-subject>
+    <h-splitters-description>Rozdělovače táhnou předměty z obou pruhů dopravního pásu skrze jejich vstup a rovnoměrně je rozdělují—50/50—mezi dva připojené pásy skrze jejich výstupy. To vám umožňuje efektivně distribuovat zdroje napříč vaší továrnou.
+
+Tip: Řetězením více rozdělovačů můžete jemně doladit tok a směrovat konkrétní části vaší produkce tam, kde jsou nejvíce potřeba. Je to mocný nástroj pro vyvažování složité logistiky.</h-splitters-description>
+    
+    <h-performance-subject>Výkon</h-performance-subject>
+    <h-performance-description>Pokud zaznamenáváte vysoké využití GPU, zkuste zakázat stíny. To může významně snížit spotřebu energie a zlepšit výkon.
+
+Pokud zažíváte nízkou snímkovací frekvenci, zvažte zakázání stínů a použití možnosti pevného škálování rozlišení.
+Snížení rozlišení (například na 70%) může pomoci zvýšit výkon bez obětování příliš vizuální kvality, zejména na menších obrazovkách.</h-performance-description>
+    
+    <h-combat-subject>Boj</h-combat-subject>
+    <h-combat-description>K obraně vašich prospektorů je musíte naverbovat jejich výběrem a stisknutím R.
+    
+Sirius B-3 je nepřátelský a nepředvídatelný svět. Domorodí It'akové pozorují vaši technologii se závistí a touží po posvátném Lucrum 115, které těžíte a vypouštíte mimo svět. Za svítání mohou zaútočit, rozhodnutí znovu získat to, co věří, že je oprávněně jejich. Ne všichni It'akové jsou nepřátelští—některé jsou mírumilovní a nepředstavují žádnou hrozbu. Jak se rozhodnete s nimi jednat, je zcela na vás.
+
+Další frakcí, se kterou se setkáte, jsou vesmírní piráti. Zatímco mohou přepadnout vaše osídlení, nejsou jen nepřáteli—mají potenciál stát se cennými obchodními partnery.
+
+Během útoku můžete spustit alarm (viz více pod Bezpečnou zónou), aby vaši prospektoři přestali dělat to, co dělají, a utekli do bezpečí, bez ohledu na to, kde jsou.
+
+K obraně vaší kolonie budete muset naverbovat vaše prospektory stisknutím R. Jakmile jsou naverbováni, přestanou své současné úkoly a automaticky budou vyhledávat a útočit na blízké nepřátele—za předpokladu, že jsou ozbrojeni.
+
+V bitvě mohou být prospektoři zabiti nebo vyřazeni z boje—často kvůli ztrátě končetiny. Vyřazené jedince lze odnést do Regenerační komory, kde jejich končetiny budou znovu narosteny. Pokud stále mohou chodit, mohou se do komory dostat sami.
+
+Nicméně opakované vystavení smrti a násilí může zanechat psychologickou daň. Prospektoři, kteří jsou svědky příliš mnoha ztrát, mohou být traumatizováni, což je přiměje utéct a dočasně ignorovat vaše příkazy, dokud se nevzpamatují ze strachu. Totéž platí pro nájezdníky. Pokud ztratí příliš mnoho lidí, mohou opustit svůj útok.</h-combat-description>
+    
+    <h-safe-zone-subject>Bezpečná zóna</h-safe-zone-subject>
+    <h-safe-zone-description>Můžete definovat bezpečné zóny pomocí tlačítek Bezpečné a Nebezpečné. Doporučuje se umístit vaši bezpečnou zónu do dobře bráněného komplexu k ochraně vašich prospektorů během útoků.
+
+Když stisknete červené tlačítko alarmu, zazní siréna a všichni prospektoři okamžitě přestanou své současné úkoly a poběží do určené bezpečné zóny. Zatímco jsou uvnitř bezpečné zóny, budou pokračovat v práci během alarmu—pokud je nenaverbujete do boje.</h-safe-zone-description>
+    
+    <h-doors-subject>Dveře</h-doors-subject>
+    <h-doors-description>Dveře slouží dvojímu účelu: drží nepřátele venku a pomáhají udržet teplo uvnitř vašich struktur. Nicméně, pokud se dveře zavřou, zatímco se nepřítel snaží proklouznout dovnitř, možná je budou moci vypáčit.
+
+Takže dávejte pozor na nepozváné hosty—nepřátele, kteří se vkradou hned za vašimi prospektory. Zůstaňte ostražití a nenechte si ujít střežení!</h-doors-description>
+    
+    <h-food-subject>Jídlo</h-food-subject>
+    <h-food-description>Automat, který vydává jídlo. V současnosti není nic víc než běžná nutnost pro vaše prospektory. V budoucnu plánujeme mít celý ekosystém kolem poskytování jídla.</h-food-description>
+    
+    <h-needs-subject>Potřeby</h-needs-subject>
+    <h-needs-description>Prospektoři musí jít na záchod, umýt se, něco sníst a vyspat se.
+K tomu potřebují záchod, umyvadlo, automat Mr. Soylent a postel. Všechny z nich mohou být momentálně sdílené. Podívejte se na náš plán vývoje pro nápady, které máme k rozšíření těchto systémů.</h-needs-description>
+    
+    <h-orders-subject>Příkazy</h-orders-subject>
+    <h-orders-description>Vaši prospektoři jsou páteří vaší továrny—vaše nepostradatelná pracovní síla. Můžete jim přiřadit vykonávání základních úkolů jako:
+- Kácení stromů
+- Přeprava předmětů
+- Těžba rud
+- Vyrovnání terénu
+- Dekonstrukce budov
+
+K efektivnějšímu řízení těchto úkolů máte také nástroje jako:
+- Povolit/Zakázat předměty – Kontrola, se kterými předměty lze interagovat nebo je přesouvat.
+- Vymazat příkazy – Zrušení existujících úkolů k rychlému přizpůsobení měnícím se prioritám.
+
+Nabídku příkazů najdete ve spodní části obrazovky, viditelnou po celou dobu.
+</h-orders-description>
+    
+    <h-spaceports-trades-subject>Vesmírné přístavy a obchod</h-spaceports-trades-subject>
+    <h-spaceports-trades-description>K obchodování s produkty budete potřebovat vesmírný přístav. Každý vesmírný přístav má přistávací zónu a velikost této zóny určuje, jaká třída lodí zde může přistát.
+
+Když se objeví obchodní příležitost, zobrazí se v okně Událostí. Otevřete událost, posuňte se dolů a klikněte na Přijmout k potvrzení obchodu. V některých případech si také budete moci vybrat, na který vesmírný přístav by měl obchodník přistát.
+
+Jakmile bude přijato, obchodník bude na cestě a přistane na vesmírném přístavu po nějaké době. Během této doby se ujistěte, že všechny požadované materiály jsou k dispozici na vybraném vesmírném přístavu. Předměty můžete doručit ručně přepravou prospektorů nebo připojením dopravního pásu k vstupu přístavu (viz Výstupy v nabídce Nápovědy pro detaily).
+
+Jakmile budou splněny obchodní podmínky, obchodník zanechá platbu na vesmírném přístavu a okamžitě opustí přistávací zónu.</h-spaceports-trades-description>
+    
+    <h-mining-subject>Těžba</h-mining-subject>
+    <h-mining-description>Ložiska rud můžete těžit buď pomocí vašich prospektorů nebo specializovaných strojů jako Malý těžební stroj.
+
+Nicméně některé zdroje—jako Lucrum 115—vyžadují pokročilé těžební vybavení. Například Těžební stroj Lucrum 115 je speciálně navržen pro tento úkol a potřebuje rozpouštědla k správnému fungování.</h-mining-description>
+
+    
+    <bubble-converter-recipe>Žádný recept</bubble-converter-recipe>
+    <bubble-converter-fuel>Chybí palivo</bubble-converter-fuel>
+    <bubble-converter-ingredients>Chybí ingredience</bubble-converter-ingredients>
+    <bubble-blueprint-not-in-stockpile>Není ve skladu</bubble-blueprint-not-in-stockpile>
+    <bubble-deposit-depleted>Ložisko vyčerpáno</bubble-deposit-depleted>
+    <bubble-workstation-missing-ingredients>Chybí ingredience</bubble-workstation-missing-ingredients>
+    <bubble-trader-arriving>Přijíždí za {0}</bubble-trader-arriving>
+    <bubble-trader-departing>Odjíždí za {0}</bubble-trader-departing>
+
+</Translations>

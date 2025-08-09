@@ -1,0 +1,475 @@
+<Translations>
+    <accumulator>Akumulátor</accumulator>
+    <accumulator-description>Shromažďuje přebytečnou energii k využití budovami v jeho elektrické síti.</accumulator-description>
+
+    <fast-accumulator>Rychlý akumulátor</fast-accumulator>
+    <fast-accumulator-description>Rychleji shromažďuje přebytečnou energii k využití budovami v jeho elektrické síti</fast-accumulator-description>
+
+    <high-capacity-accumulator>Vysokokapacitní akumulátor</high-capacity-accumulator>
+    <high-capacity-accumulator-description>Shromažďuje velká množství energie k využití budovami v jeho elektrické síti</high-capacity-accumulator-description>
+
+    <steam-engine>Parní motor</steam-engine>
+    <steam-engine-description>Parní turbína, která vyrábí elektřinu.</steam-engine-description>
+
+    <steam-turbine>Parní turbína</steam-turbine>
+    <steam-turbine-description>Parní turbína, která vyrábí elektřinu - efektivnější než parní motor.</steam-turbine-description>
+
+    <casting-machine>Licí stroj na Lucrum cívky</casting-machine>
+    <casting-machine-description>Odlévá Lucrum cívky</casting-machine-description>
+    
+    <chemical-reaction-chamber>Malá reakční komora</chemical-reaction-chamber>
+    <chemical-reaction-chamber-description>Chemický procesor pro červené rozpouštědlo</chemical-reaction-chamber-description>
+
+    <small-chemical-reactor>Malý chemický procesor</small-chemical-reactor>
+    <small-chemical-reactor-description>Chemický procesor pro zelené rozpouštědlo</small-chemical-reactor-description>
+
+    <chemical-reactor>Chemický reaktor</chemical-reactor>
+    <chemical-reactor-description>Umožňuje různé typy chemických reakcí.</chemical-reactor-description>
+
+    <basic-punch-press>Děrovací lis</basic-punch-press>
+    <basic-punch-press-description>Děruje otvory, řeže tvary a tvaruje kovy.</basic-punch-press-description>
+    
+    <basic-cutter>Průmyslová řezačka</basic-cutter>
+    <basic-cutter-description>Řeže, tvaruje a ořezává různé materiály.</basic-cutter-description>
+    
+    <basic-lathe>Průmyslový soustruh</basic-lathe>
+    <basic-lathe-description>Tvaruje, řeže a vrtá válcové obrobky</basic-lathe-description>
+    
+    <basic-crimper>Průmyslový lisovač</basic-crimper>
+    <basic-crimper-description>Spojuje dva kousky materiálu pro vytvoření drátů a kabelů</basic-crimper-description>
+    
+    <basic-drill>Průmyslová vrtačka</basic-drill>
+    <basic-drill-description>Vrtá otvory do různých materiálů.</basic-drill-description>
+    
+    <stockpile>Sklad</stockpile>
+    <stockpile-description>Ukládá zdroje a stroje.</stockpile-description>
+    
+    <assembly-machine-2-slot>Červený sestavovač</assembly-machine-2-slot>
+    <assembly-machine-2-slot-description>Automaticky sestavuje komponenty, díly a materiály do produktů.</assembly-machine-2-slot-description>
+
+    <assembly-machine-3-slot>Zelený sestavovač</assembly-machine-3-slot>
+    <assembly-machine-3-slot-description>Automaticky sestavuje komponenty, díly a materiály do produktů.</assembly-machine-3-slot-description>
+
+    <assembly-machine-4-slot>Modrý sestavovač</assembly-machine-4-slot>
+    <assembly-machine-4-slot-description>Automaticky sestavuje komponenty, díly a materiály do produktů.</assembly-machine-4-slot-description>
+
+    <assembly-machine-5-slot>Žlutý sestavovač</assembly-machine-5-slot>
+    <assembly-machine-5-slot-description>Automaticky sestavuje komponenty, díly a materiály do produktů.</assembly-machine-5-slot-description>
+
+    <assembly-machine-6-slot>Bílý sestavovač</assembly-machine-6-slot>
+    <assembly-machine-6-slot-description>Automaticky sestavuje komponenty, díly a materiály do produktů.</assembly-machine-6-slot-description>
+    
+    <wire-drawing-machine>Stroj na tažení drátů</wire-drawing-machine>
+    <wire-drawing-machine-description>Vyrábí a přetváří dráty.</wire-drawing-machine-description>
+
+    <electric-boiler>Elektrický kotel</electric-boiler>
+    <electric-boiler-description>Používá elektřinu k ohřevu vody a výrobě páry.</electric-boiler-description>
+    
+    <cement-plant>Cementárna</cement-plant>
+    <cement-plant-description>Dělá věci nějak konkrétní</cement-plant-description>
+
+    <distillery>Destilérka</distillery>
+    <distillery-description>Ohřívá kapaliny pro vytvoření páry k získání požadovaných složek v koncentrované formě.</distillery-description>
+
+    <electrolyser>Elektrolyzér</electrolyser>
+    <electrolyser-description>Rozděluje vodu na vodík a kyslík pro palivové články</electrolyser-description>
+
+    <ore-crusher>Drtič rud</ore-crusher>
+    <ore-crusher-description>Drtí velké kusy rud na menší části.</ore-crusher-description>
+
+    <pump>Pumpa</pump>
+    <pump-description>Přesouvá kapaliny a plyn z jednoho místa na druhé</pump-description>
+
+    <refinery>Rafinérie</refinery>
+    <refinery-description>Přeměňuje ropu na palivo.</refinery-description>
+
+    <gas-refinery>Plynová rafinérie</gas-refinery>
+    <gas-refinery-description>Přeměňuje ropu na plyn.</gas-refinery-description>
+
+    <steam-cracker>Parní kraker</steam-cracker>
+    <steam-cracker-description>Přeměňuje ropu nebo zemní plyn na různé petrochemikálie</steam-cracker-description>
+
+    <washing-plant>Prádelna</washing-plant>
+    <washing-plant-description>Čistí suroviny.</washing-plant-description>
+
+    <furnace>Pec</furnace>
+    <furnace-description>Taví uhlí na koks a měděné a železné rudy na ingoty nebo bloky.</furnace-description>
+    
+    <blast-furnace>Vysoká pec</blast-furnace>
+    <blast-furnace-description>Taví olověné, stříbrné a zlaté ingoty stejně jako ocelové bloky.</blast-furnace-description>
+    
+    <crafting-spot>Výrobní místo</crafting-spot>
+    <crafting-spot-description>Nejjednodušší pracovní stůl</crafting-spot-description>
+   
+    <workbench>Mechanický pracovní stůl</workbench>
+    <workbench-description>Vyrábí stroje, díly, zdroje a nábytek</workbench-description>
+
+    <workbench-advanced>Pokročilý pracovní stůl</workbench-advanced>
+    <workbench-advanced-description>Pokročilý pracovní stůl</workbench-advanced-description>
+
+    <workbench-high-tech>Hi-tech pracovní stůl</workbench-high-tech>
+    <workbench-high-tech-description>Hi-tech pracovní stůl</workbench-high-tech-description>
+
+    <chemical-lab>Chemická laboratoř</chemical-lab>
+    <chemical-lab-description>Vyrábí různé chemické produkty.</chemical-lab-description>
+    
+    <carpenters-bench>Truhlářský stůl</carpenters-bench>
+    <carpenters-bench-description>Pracovní místo pro práci se dřevem</carpenters-bench-description>
+    
+    <stonemasonry>Kamenictví</stonemasonry>
+    <stonemasonry-description>Stůl pro kameníka</stonemasonry-description>
+    
+    <steel-furnace>Ocelová pec</steel-furnace>
+    <steel-furnace-description>Taví nerezovou ocel, nikl a hliníkové rudy na ingoty a bloky.</steel-furnace-description>
+
+    <electric-furnace>Elektrická pec</electric-furnace>
+    <electric-furnace-description>Taví rudy, které jiné pece nedokážou.</electric-furnace-description>
+
+    <lucrum-smelter>Lucrum tavírna</lucrum-smelter>
+    <lucrum-smelter-description>Taví rudy Lucrum 115 na Lucrum ingoty.</lucrum-smelter-description>
+
+    <basic-support>Základní podpora</basic-support>
+    <basic-support-description>Vždy tu, aby pomohla</basic-support-description>
+
+    <small-mining-drill-support>Podpora malého těžebního vrtáku</small-mining-drill-support>
+    <small-mining-drill-support-description>Vrtá do země pro těžbu rud.</small-mining-drill-support-description>
+    
+    <mining-drill-support>Podpora těžebního vrtáku</mining-drill-support>
+    <mining-drill-support-description>Platforma, která podporuje těžební vrtáky.</mining-drill-support-description>
+    
+    <basic-conveyor-belt>Základní dopravní pás</basic-conveyor-belt>
+    <basic-conveyor-belt-description>Dodává na všech frontách.</basic-conveyor-belt-description>
+
+    <fast-conveyor-belt>Rychlý dopravní pás</fast-conveyor-belt>
+    <fast-conveyor-belt-description>Dopravuje zdroje rychleji.</fast-conveyor-belt-description>
+
+    <splitter>Rozdělovač</splitter>
+    <splitter-description>Rozdělí jeden vstup rovnoměrně mezi dva výstupy.</splitter-description>
+    
+    <splitter-2-2>Rozdělovač 2:2</splitter-2-2>
+    <splitter-2-2-description>Rozdělí dva vstupy rovnoměrně mezi dva výstupy</splitter-2-2-description>
+    
+    <splitter-1-3>Rozdělovač 1:3</splitter-1-3>
+    <splitter-1-2-description>Rozdělí jeden vstup rovnoměrně mezi tři výstupy.</splitter-1-2-description>
+
+    <merger-3-1>Slučovač 3:1</merger-3-1>
+    <merger-3-1-description>Sloučí až tři vstupy do jednoho výstupu.</merger-3-1-description>
+    
+    <basic-crane>Podavač</basic-crane>
+    <basic-crane-description>Bere zdroje z jedné strany a vkládá je na druhou. Musí být postavený na zdroj a cíl.</basic-crane-description>
+
+    <basic-large-crane>Dlouhý podavač</basic-large-crane>
+    <basic-large-crane-description>Bere zdroje z dopravních pásů z větší vzdálenosti a krmí jimi stroje a sklady.</basic-large-crane-description>
+
+    <basic-programmable-crane>Programovatelný podavač</basic-programmable-crane>
+    <basic-programmable-crane-description>Bere předem určenou sadu zdrojů z dopravních pásů a krmí jimi stroje a sklady.</basic-programmable-crane-description>
+
+    <small-mining-drill>Malý těžební vrták</small-mining-drill>
+    <small-mining-drill-description>Vrtá do země a těží zdroje.</small-mining-drill-description>
+    
+    <mining-drill>Těžební vrták</mining-drill>
+    <mining-drill-description>Vrtá do země a těží zdroje ve větším okruhu.</mining-drill-description>
+
+    <large-mining-drill>Velký těžební vrták</large-mining-drill>
+    <large-mining-drill-description>Vrtá do země a těží rudy v mnohem větším okruhu.</large-mining-drill-description>
+
+    <pumpjack>Čerpací věž</pumpjack>
+    <pumpjack-description>Vytěžuje ropu ze země</pumpjack-description>
+
+    <high-pressure-pumpjack>Vysokotlaká čerpací věž</high-pressure-pumpjack>
+    <high-pressure-pumpjack-description>Vytěžuje více ropy ze země.</high-pressure-pumpjack-description>
+
+    <lucrum-miner>Lucrum důl</lucrum-miner>
+    <lucrum-miner-description>Umístěte Lucrum důl přesně na ložisko Lucrum 115, abyste plýtvali rozpouštědly co nejméně.</lucrum-miner-description>
+
+    <solar-panel>Solární panel</solar-panel>
+    <solar-panel-description>Přeměňuje sluneční světlo na elektrickou energii.</solar-panel-description>
+
+    <large-solar-panel>Velký solární panel</large-solar-panel>
+    <large-solar-panel-description>Přeměňuje více slunečního světla na více elektrické energie</large-solar-panel-description>
+
+    <solar-array>Solární pole</solar-array>
+    <solar-array-description>Přeměňuje obrovská množství slunečního světla na elektrickou energii.</solar-array-description>
+
+    <small-storage>Malý sklad</small-storage>
+    <small-storage-description>Ukládá omezená množství zdrojů.</small-storage-description>
+
+    <space-port>Kosmodrom</space-port>
+    <space-port-description>Přístav pro vesmírné obchodníky, kde mohou přistát, abyste s nimi mohli uzavírat obchody.</space-port-description>
+    
+    <small-gun-turret>Malá střelecká věž</small-gun-turret>
+    <small-gun-turret-description>Automaticky střílí malé kalibry na vše, co se pohybuje</small-gun-turret-description>
+
+    <large-gun-turret>Velká střelecká věž</large-gun-turret>
+    <large-gun-turret-description>Automaticky střílí velké kalibry na vše, co se pohybuje</large-gun-turret-description>
+
+    <steel-floor>Ocelová podlaha</steel-floor>
+    <steel-floor-description>Podlahová dlaždice vyrobená z oceli.</steel-floor-description>
+
+    <steel-roof>Ocelová střecha</steel-roof>
+    <steel-roof-description>Střešní dlaždice vyrobená z oceli.</steel-roof-description>
+     
+    <brick-floor>Cihlová podlaha</brick-floor>
+    <brick-floor-description>Podlahová dlaždice vyrobená z cihel.</brick-floor-description>
+
+    <brick-roof>Cihlová střecha</brick-roof>
+    <brick-roof-description>Střešní dlaždice vyrobená z hlíny.</brick-roof-description>
+    
+    <wood-floor>Dřevěná podlaha</wood-floor>
+    <wood-floor-description>Podlahová dlaždice vyrobená ze dřeva.</wood-floor-description>
+
+    <wood-roof>Dřevěná střecha</wood-roof>
+    <wood-roof-description>Střešní dlaždice vyrobená ze dřeva.</wood-roof-description>
+
+    <glass-roof>Skleněná střecha</glass-roof>
+    <glass-roof-description>Střešní dlaždice vyrobená ze skla.</glass-roof-description>
+
+    <wood-stairs>Dřevěné schody</wood-stairs>
+    <wood-stairs-description>Schody vyrobené ze dřeva.</wood-stairs-description>
+    
+    <water-pipe>Vodovodní trubka</water-pipe>
+    <water-pipe-description>Přesouvá vodu po továrně.</water-pipe-description>
+    
+    <steam-pipe>Parní trubka</steam-pipe>
+    <steam-pipe-description>Přesouvá páru po továrně.</steam-pipe-description>
+    
+    <basic-floor>Podlaha</basic-floor>
+    <basic-floor-description>Pevná, ale základní podlahová dlaždice.</basic-floor-description>
+
+    <gangway>Lávka</gangway>
+    <gangway-description>Poskytuje bezpečné průchody mezi stroji.</gangway-description>
+
+    <base-gangway>Lávka</base-gangway>
+    <base-gangway-description>Poskytuje bezpečné průchody mezi stroji.</base-gangway-description>
+    
+    <concrete-floor>Betonová podlaha</concrete-floor>
+    <concrete-floor-description>Podlahová dlaždice vyrobená z betonu.</concrete-floor-description>
+
+    <concrete-wall>Betonová zeď</concrete-wall>
+    <concrete-wall-description>Zeď vyrobená z betonu.</concrete-wall-description>
+
+    <concrete-window>Betonová okna</concrete-window>
+    <concrete-window-description>Betonová zeď s oknem.</concrete-window-description>
+
+    <concrete-stairs>Betonové schody</concrete-stairs>
+    <concrete-stairs-description>Schody vyrobené z betonu.</concrete-stairs-description>
+
+    <stone-floor>Žulová podlaha</stone-floor>
+    <stone-floor-description>Podlaha vyrobená ze žuly.</stone-floor-description>
+
+    <stone-wall>Žulová zeď</stone-wall>
+    <stone-wall-description>Zeď vyrobená ze žuly.</stone-wall-description>
+	
+    <stone-window>Žulová zeď s oknem</stone-window>
+    <stone-window-description>Zeď vyrobená ze žuly s oknem.</stone-window-description>
+ 
+    <railing-half>Zábradlí</railing-half>
+    <railing-half-description>Zábradlí.</railing-half-description>
+	
+    <brick-wall>Cihlová zeď</brick-wall>
+    <brick-wall-description>Zeď vyrobená z cihel.</brick-wall-description>
+	
+    <basic-bed>Postel</basic-bed>
+    <basic-bed-description>Poskytuje dobrý noční odpočinek.</basic-bed-description>
+
+    <basic-chair>Židle</basic-chair>
+    <basic-chair-description>Zařízení k sezení u stolu.</basic-chair-description>
+
+    <basic-computer>Počítač</basic-computer>
+    <basic-computer-description>Ovládá a monitoruje stroje a výrobní procesy.</basic-computer-description>
+
+    <basic-sink>Umyvadlo</basic-sink>
+    <basic-sink-description>Umožňuje průzkumníkům se umýt.</basic-sink-description>
+
+    <basic-stove>Sporák</basic-stove>
+    <basic-stove-description>Umožňuje kolonistům vařit jídla.</basic-stove-description>
+
+    <mr-soylent-2>Mr. Soylent</mr-soylent-2>
+    <mr-soylent-2-description>Sněz svou dávku dnes, nebo buď dávkou zítra.</mr-soylent-2-description>
+
+    <regen-pod>Regenerační pod</regen-pod>
+    <regen-pod-description>Léčí uživatele zatímco je zavěšený v příjemné sliznici.</regen-pod-description>
+    
+    <basic-table>Stůl</basic-table>
+    <basic-table-description>Hodí se dobře se židlemi.</basic-table-description>
+    
+    <basic-toilet>Záchod</basic-toilet>
+    <basic-toilet-description>Ideální pro rychlou dekompresní sezení.</basic-toilet-description>
+
+    <native-stool>Domorodá stolička</native-stool>
+    <native-stool-description>Stolička vyrobená It'aky.</native-stool-description>
+
+    <native-table-furniture>Domorodý stůl</native-table-furniture>
+    <native-table-furniture-description>Stůl vyrobený It'aky.</native-table-furniture-description>
+
+    <native-well>Studna</native-well>
+    <native-well-description>Primitivní zařízení k získávání vody ze země.</native-well-description>
+    
+    <painting>Obraz</painting>
+    <painting-description>Kurátorská kolekce obrazů k zavěšení na zdi.</painting-description>
+
+    <small-sign>Malá cedule</small-sign>
+    <small-sign-description>Malá cedule, která sděluje velké myšlenky.</small-sign-description>
+
+    <large-sign>Velká cedule</large-sign>
+    <large-sign-description>Velká cedule. Takový druh velké cedule, kterou umělci milují.</large-sign-description>
+    
+    <computer-screen>Počítačová obrazovka</computer-screen>
+    <computer-screen-description>Počítačová obrazovka. S více jich jste důležitější.</computer-screen-description>
+
+    <tatami-floor>Tatami</tatami-floor>
+    <tatami-floor-description>Tradiční měkké rohože.</tatami-floor-description>
+
+    <shoji>Shoji</shoji>
+    <shoji-description>Tradiční papírová zeď.</shoji-description>
+
+    <sandbags>Pytle s pískem</sandbags>
+    <sandbags-description>Můžete se za nimi krýt.</sandbags-description>
+
+    <glass-door>Skleněné dveře</glass-door>
+    <glass-door-description>Nedostatek soukromí a bezpečnosti.</glass-door-description>
+
+    <brick-door>Měděné dveře</brick-door>
+    <brick-door-description>Měděné dveře s rámem z cihel.</brick-door-description>
+ 
+    <concrete-door>Kalené ocelové dveře</concrete-door>
+    <concrete-door-description>Kalené ocelové dveře s betonovým rámem.</concrete-door-description>
+
+    <stone-door>Ocelové dveře</stone-door>
+    <stone-door-description>Ocelové dveře s rámem z kamenných bloků.</stone-door-description>
+
+    <steel-wall>Ocelová zeď</steel-wall>
+    <steel-wall-description>Nástěnná dlaždice vyrobená z oceli.</steel-wall-description>
+
+    <steel-wall-large>Velká ocelová zeď</steel-wall-large>
+    <steel-wall-large-description>Velká nástěnná dlaždice vyrobená z oceli.</steel-wall-large-description>
+
+    <steel-door>Vzduchová komora</steel-door>
+    <steel-door-description>Těsná vzduchová komora.</steel-door-description>
+
+    <steel-double-door>Ocelové dvojité dveře</steel-double-door>
+    <steel-double-door-description>Dvojité dveře vyrobené z oceli.</steel-double-door-description>
+
+    <steel-window>Ocelové okno</steel-window>
+    <steel-window-description>Okno vyrobené z oceli.</steel-window-description>
+
+    <wood-wall>Dřevěná zeď</wood-wall>
+    <wood-wall-description>Základní dřevěná zeď.</wood-wall-description>
+
+    <wood-wall-large>Velká dřevěná zeď</wood-wall-large>
+    <wood-wall-large-description>Velká nástěnná dlaždice vyrobená ze dřeva.</wood-wall-large-description>
+
+    <wood-door>Dřevěné dveře</wood-door>
+    <wood-door-description>Lepší než závěs.</wood-door-description>
+
+    <wood-double-door>Dřevěné dvojité dveře</wood-double-door>
+    <wood-double-door-description>Dvojité dveře vyrobené ze dřeva.</wood-double-door-description>
+
+    <wood-window>Dřevěné okno</wood-window>
+    <wood-window-description>Okno s dřevěným rámem.</wood-window-description>
+    
+    <palisade>Palisáda</palisade>
+    <palisade-description>Drží "je" venku.</palisade-description>
+
+    <palisade-gate>Palisádová brána</palisade-gate>
+    <palisade-gate-description>Brána v dřevěné palisádě pro kontrolovaný přístup.</palisade-gate-description>
+
+    <basic-window>Okno</basic-window>
+    <basic-window-description>Okno. Skvělé výhledy!</basic-window-description>
+
+    <basic-window-half>Okno</basic-window-half>
+    <basic-window-half-description>Okno. Skvělé výhledy!</basic-window-half-description>
+
+    <barbed-wire-fence>Ostnatý drát</barbed-wire-fence>
+    <barbed-wire-fence-description>Ostnatý drát pro ochranu perimetru proti vetřelcům.</barbed-wire-fence-description>
+
+    <barbed-wire-gate>Brána z ostnatého drátu</barbed-wire-gate>
+    <barbed-wire-gate-description>Brána v ostnatém drátu umožňující kontrolovaný průchod.</barbed-wire-gate-description>
+
+    <basic-staircase>Schody</basic-staircase>
+    <basic-staircase-description>Umožňuje kolonistům dosáhnout vyšších pater.</basic-staircase-description>
+
+    <big-staircase>Velké schody</big-staircase>
+    <big-staircase-description>Umožňuje kolonistům dosáhnout ještě vyšších pater.</big-staircase-description>
+
+    <concrete-staircase-single-short>Malé betonové schody</concrete-staircase-single-short>
+    <concrete-staircase-single-short-description>Betonové schody, které překlenují jedno patro.</concrete-staircase-single-short-description>
+
+    <concrete-staircase-single-tall>Vysoké betonové schody</concrete-staircase-single-tall>
+    <concrete-staircase-single-tall-description>Betonové schody, které vedou do dvou pater.</concrete-staircase-single-tall-description>
+
+    <concrete-staircase-double>Betonové schody se závojem</concrete-staircase-double>
+    <concrete-staircase-double-description>Betonové schody, které lze použít k výstupu do jednoho nebo dvou pater.</concrete-staircase-double-description>
+
+    <wood-staircase-single-short>Malé dřevěné schody</wood-staircase-single-short>
+    <wood-staircase-single-short-description>Dřevěné schody, které překlenují jedno patro.</wood-staircase-single-short-description>
+
+    <wood-staircase-single-tall>Vysoké dřevěné schody</wood-staircase-single-tall>
+    <wood-staircase-single-tall-description>Dřevěné schody, které vedou do dvou pater.</wood-staircase-single-tall-description>
+
+    <wood-staircase-double>Dřevěné schody se závojem</wood-staircase-double>
+    <wood-staircase-double-description>Dřevěné schody, které lze použít k výstupu do jednoho nebo dvou pater.</wood-staircase-double-description>
+    
+    <ladder-short>Krátký žebřík</ladder-short>
+    <ladder-short-description>Krátký žebřík pro rychlý výstup o jedno patro.</ladder-short-description>
+
+    <ladder-tall>Vysoký žebřík</ladder-tall>
+    <ladder-tall-description>Vysoký žebřík pro výstup do větších výšek.</ladder-tall-description>
+
+    <basic-utility-pole>Užitkový sloup</basic-utility-pole>
+    <basic-utility-pole-description>Podporuje elektrické vedení a kabely.</basic-utility-pole-description>
+
+    <large-utility-pole>Velký užitkový sloup</large-utility-pole>
+    <large-utility-pole-description>Podporuje více elektrických vedení a kabelů.</large-utility-pole-description>
+
+    <basic-lantern>Základní lucerna</basic-lantern>
+    <basic-lantern-description>Osvětluje malou oblast.</basic-lantern-description>
+
+    <lantern>Lucerna</lantern>
+    <lantern-description>Osvětluje střední oblast</lantern-description>
+    
+    <base-lantern>Základní lucerna</base-lantern>
+    <base-lantern-description>Osvětluje velkou oblast</base-lantern-description>
+
+    <window-25x30>Okno</window-25x30>
+    <window-25x30-description>Okno. Skvělé výhledy!</window-25x30-description>
+
+    <mounted-light>Nástěnné světlo</mounted-light>
+    <mounted-light-description>Osvětluje místnosti při připevnění ke stropu.</mounted-light-description>
+
+    <base-mounted-light>Nástěnné světlo</base-mounted-light>
+    <base-mounted-light-description>Osvětluje místnosti při připevnění na zeď.</base-mounted-light-description>
+
+    <light-alarm>Alarm</light-alarm>
+    <light-alarm-description>Vydává červené, blikající světlo.</light-alarm-description>
+
+    <light-bell-small>Malé zvonové světlo</light-bell-small>
+    <light-bell-small-description>Osvětlete podlahy vaší továrny měkkým, rozptýleným světlem.</light-bell-small-description>
+
+    <light-mood>Nálادové světlo</light-mood>
+    <light-mood-description>Světlo pro zvláštní příležitosti.</light-mood-description>
+
+    <light-office>Kancelářské světlo</light-office>
+    <light-office-description>Osvětluje kancelářské místnosti</light-office-description>
+
+    <light-tube>Trubicové světlo</light-tube>
+    <light-tube-description>Osvětluje tovární podlahy zářivkovým světlem.</light-tube-description>
+
+    <light-tube-2>Trubicové světlo 2</light-tube-2>
+    <light-tube-2-description>Osvětluje tovární podlahy zářivkovým světlem.</light-tube-2-description>
+
+    <torch>Pochodeň</torch>
+    <torch-description>Osvětluje primitivní It'ak chaty.</torch-description>
+    
+    <basic-lantern-hanging>Visící lucerna</basic-lantern-hanging>
+    <basic-lantern-hanging-description>Osvětluje venkovní oblasti.</basic-lantern-hanging-description>
+    
+    <basic-lantern-street>Pouličn lucerna</basic-lantern-street>
+    <basic-lantern-street-description>Osvětluje venkovní oblasti.</basic-lantern-street-description>
+
+    <basic-moonlight-tower-tall>Vysoká měsíční věž</basic-moonlight-tower-tall>
+    <basic-moonlight-tower-tall-description>Osvětluje velké venkovní oblasti.</basic-moonlight-tower-tall-description>
+
+    <landing-pad>Přistávací plocha</landing-pad>
+    <landing-pad-description>Umožňuje velkým letadlům bezpečně přistát na nerovném terénu.</landing-pad-description>
+</Translations>

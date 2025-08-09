@@ -1,0 +1,20 @@
+<Translations>
+    <Ctry>ZEMĚ</Ctry>
+    <France>Francie</France>
+    <Germany>Německo</Germany>
+    <Mexico>Mexiko</Mexico>
+    <Netherlands>Nizozemsko</Netherlands>
+    <UnitedStates>Spojené státy</UnitedStates>
+    
+    <Gen>POH</Gen>
+    <FemaleAbbr>ž</FemaleAbbr>
+    <MaleAbbr>m</MaleAbbr>
+    <NonBinaryAbbr>nb</NonBinaryAbbr>
+    <TransFemaleAbbr>ž</TransFemaleAbbr>
+    <TransMaleAbbr>m</TransMaleAbbr>
+    
+    <SexPref>SEX PREF</SexPref>
+    <BiAbbr>bi</BiAbbr>
+    <GayAbbr>gay</GayAbbr>
+    <StraightAbbr>hetero</StraightAbbr>
+</Translations>

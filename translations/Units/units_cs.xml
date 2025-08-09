@@ -1,0 +1,19 @@
+<Translations>
+    <units>Jednotky</units>
+    <units-description>Všechny živé bytosti a mobilní entity v herním světě včetně pracovníků, nepřátel a zvířat.</units-description>
+    
+    <pioneer>Průkopník</pioneer>
+    <pioneer-description>Zkušený kolonista specializující se na průzkum a zakládání nových osad v neprobádaných oblastech.</pioneer-description>
+
+    <prospector>Průzkumník</prospector>
+    <prospector-description>Základní pracovník kolonie schopný těžby, stavby, výroby a boje. Páteř každé úspěšné operace.</prospector-description>
+
+    <itak>It'ak</itak>
+    <itak-description>Domorodý obyvatel planety Sirius B 3. Někteří jsou mírumilovní, jiní považují kolonisty za vetřelce.</itak-description>
+
+    <bull>Býk</bull>
+    <bull-description>Velké a agresivní zvíře žijící volně na planetě. Nebezpečné pokud je vyprovokováno nebo ohroží mladé.</bull-description>
+
+    <ship>Loď</ship>
+    <ship-description>Vesmírné plavidlo používané pro dopravu, obchod a průzkum mezi planetami a orbitálními stanicemi.</ship-description>
+</Translations>

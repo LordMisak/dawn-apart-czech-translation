@@ -1,0 +1,70 @@
+<Translations>
+    <miners-display-category>Doly</miners-display-category>
+    <miners-display-category-description>!Popis kategorie Doly</miners-display-category-description>
+
+    <furnaces-display-category>Pece</furnaces-display-category>
+    <furnaces-display-category-description>!Popis kategorie Pece</furnaces-display-category-description>
+
+    <conveyor-belts-display-category>Dopravní pásy</conveyor-belts-display-category>
+    <conveyor-belts-display-category-description>!Popis kategorie Dopravní pásy</conveyor-belts-display-category-description>
+
+    <splitters-display-category>Rozdělovače</splitters-display-category>
+    <splitters-display-category-description>!Popis kategorie Rozdělovače</splitters-display-category-description>
+
+    <mergers-display-category>Slučovače</mergers-display-category>
+    <mergers-display-category-description>!Popis kategorie Slučovače</mergers-display-category-description>
+
+    <feeders-display-category>Podavače</feeders-display-category>
+    <feeders-display-category-description>!Popis kategorie Podavače</feeders-display-category-description>
+
+    <lights-display-category>Osvětlení</lights-display-category>
+    <lights-display-category-description>!Popis kategorie Osvětlení</lights-display-category-description>
+
+    <energy-display-category>Energie</energy-display-category>
+    <energy-display-category-description>!Popis kategorie Energie</energy-display-category-description>
+
+    <pipes-display-category>Trubky</pipes-display-category>
+    <pipes-display-category-description>!Popis kategorie Trubky</pipes-display-category-description>
+
+    <stairs-display-category>Schody</stairs-display-category>
+    <stairs-display-category-description>!Popis kategorie Schody</stairs-display-category-description>
+
+    <ladders-display-category>Žebříky</ladders-display-category>
+    <ladders-display-category-description>!Popis kategorie Žebříky</ladders-display-category-description>
+
+    <walls-display-category>Zdi</walls-display-category>
+    <walls-display-category-description>!Popis kategorie Zdi</walls-display-category-description>
+
+    <floors-display-category>Podlahy</floors-display-category>
+    <floors-display-category-description>!Popis kategorie Podlahy</floors-display-category-description>
+
+    <furniture-display-category>Nábytek</furniture-display-category>
+    <furniture-display-category-description>!Popis kategorie Nábytek</furniture-display-category-description>
+
+    <products-display-category>Produkty</products-display-category>
+    <products-display-category-description>!Popis kategorie Produkty</products-display-category-description>
+
+    <raw-materials-display-category>Suroviny</raw-materials-display-category>
+    <raw-materials-display-category-description>!Popis kategorie Suroviny</raw-materials-display-category-description>
+    
+    <workbenches-display-category>Pracovní stoly</workbenches-display-category>
+    <workbenches-display-category-description>!Popis kategorie Pracovní stoly</workbenches-display-category-description>
+
+    <storage-display-category>Sklady</storage-display-category>
+    <storage-display-category-description>!Popis kategorie Sklady</storage-display-category-description>
+
+    <machines-display-category>Stroje</machines-display-category>
+    <machines-display-category-description>!Popis kategorie Stroje</machines-display-category-description>
+
+    <turrets-display-category>Věže</turrets-display-category>
+    <turrets-display-category-description>!Popis kategorie Věže</turrets-display-category-description>
+
+    <space-ports-display-category>Kosmodromy</space-ports-display-category>
+    <space-ports-display-category-description>!Popis kategorie Kosmodromy</space-ports-display-category-description>
+
+    <powerlines-display-category>Elektrické vedení</powerlines-display-category>
+    <powerlines-display-category-description>!Popis kategorie Elektrické vedení</powerlines-display-category-description>
+
+    <decorations-display-category>Dekorace</decorations-display-category>
+    <decorations-display-category-description>!Popis kategorie Dekorace</decorations-display-category-description>
+</Translations>

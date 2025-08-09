@@ -1,0 +1,12 @@
+<Translations>
+    <DataAnalytics>Analýza dat</DataAnalytics>
+    <AllowAnalytics>Povolit analytiku</AllowAnalytics>
+    <AnalyticsConsentContent>Stále se snažíme zlepšovat Dawn Apart. Za tímto účelem sledujeme některá uživatelská data, která velmi pomáhají při vytváření herních statistik a odhalování nedostatků. Vaše data NEJSOU prodávána třetím stranám a slouží pouze k ladění a zlepšování samotné hry. Souhlasíte se shromažďováním a zpracováním vašich uživatelských dat?</AnalyticsConsentContent>
+    <DeleteAnalyticsHistory>Smazat historii analytických dat</DeleteAnalyticsHistory>
+    <DataDeletionContent>Chystáte se požádat o smazání všech dat na našem serveru, která byla shromážděna s vaším uživatelským ID. Jste si jisti, že chcete pokračovat?</DataDeletionContent>
+    <DataDeletionConfirmation>Smazali jsme všechna analytická data z vaší hry, která jsme shromáždili na našem backendu, a sběr budoucích analytických dat byl vypnut. Můžete se kdykoli znovu přihlásit v nabídce nastavení.</DataDeletionConfirmation>
+    <DataCollectionConsent>Povolením sběru dat nám pomáháte zlepšovat herní zážitek s Dawn Apart. Vaše data NEJSOU prodávána třetím stranám a jsou používána pouze pro ladění a vylepšování samotné hry. Děkujeme za vaši podporu!</DataCollectionConsent>
+    
+    <LowFPSDetected>Byla detekována nízká FPS, nastavení videa byla automaticky upravena.</LowFPSDetected>
+    
+</Translations>

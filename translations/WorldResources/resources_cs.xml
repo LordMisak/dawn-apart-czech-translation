@@ -1,0 +1,58 @@
+<Translations>
+    <dirt>Hlína</dirt>
+    <dirt-description>Základní půdní vrstva pokrývající většinu planetárního povrchu. Vhodná pro terraformování a základní stavební práce.</dirt-description>
+
+    <moss>Mech</moss>
+    <moss-description>Přirozená vegetace rostoucí na vlhkých površích. Indikátor vhodných podmínek pro zemědělství a život.</moss-description>
+    
+    <tree>Strom</tree>
+    <tree-description>Vysoká dřevitá rostlina poskytující cenné dřevo pro stavbu a palivo. Důležitý zdroj obnovitelných materiálů.</tree-description>
+
+    <crude-oil-deposit>Ložisko ropy</crude-oil-deposit>
+    <crude-oil-deposit-description>Podzemní rezervoár surové ropy. Základní surovina pro chemické procesy a výrobu paliv.</crude-oil-deposit-description>
+    
+    <rock>Ložisko žuly</rock>
+    <rock-description>Tvrdá vyvřelá hornina ideální pro stavební účely. Poskytuje kvalitní kámen pro konstrukce a základy.</rock-description>
+
+    <coal-deposit>Ložisko uhlí</coal-deposit>
+    <coal-deposit-description>Fosilní palivo s vysokou energetickou hodnotou. Základní zdroj energie pro pece a generátory.</coal-deposit-description>
+    
+    <copper-deposit>Ložisko mědi</copper-deposit>
+    <copper-deposit-description>Kovová ruda s vynikajícími vodivými vlastnostmi. Nezbytná pro elektroniku a elektrické vedení.</copper-deposit-description>
+    
+    <iron-deposit>Ložisko železa</iron-deposit>
+    <iron-deposit-description>Základní kovová ruda pro výrobu oceli. Páteř všech průmyslových a stavebních projektů.</iron-deposit-description>
+    
+    <lucrum-deposit>Ložisko Lucrum 115</lucrum-deposit>
+    <lucrum-deposit-description>Nejcennější minerál ve známé galaxii. Palivo pro FTL motory a primární cíl těžební operace.</lucrum-deposit-description>
+    
+    <bauxite-deposit>Ložisko bauxitu</bauxite-deposit>
+    <bauxite-deposit-description>Hliníková ruda s vysokým obsahem oxidu hlinitého. Základní surovina pro výrobu lehkých a odolných materiálů.</bauxite-deposit-description>
+    
+    <cobaltite-deposit>Ložisko kobaltitu</cobaltite-deposit>
+    <cobaltite-deposit-description>Vzácná kobaltová ruda používaná ve speciálních slitinách. Důležitá pro pokročilé technologie a magnety.</cobaltite-deposit-description>
+    
+    <gold-deposit>Ložisko zlata</gold-deposit>
+    <gold-deposit-description>Vzácný ušlechtilý kov s vynikající vodivostí a odolností proti korozi. Cenná obchodní komodita.</gold-deposit-description>
+    
+    <lead-deposit>Ložisko olova</lead-deposit>
+    <lead-deposit-description>Hustý kov poskytující vynikající ochranu proti radiaci. Nezbytný pro stínění reaktorů a laboratorií.</lead-deposit-description>
+    
+    <quartz-deposit>Ložisko křemene</quartz-deposit>
+    <quartz-deposit-description>Křemičitý minerál používaný ve sklářství a elektronice. Základní složka pro výrobu skla a polovodičů.</quartz-deposit-description>
+    
+    <rutile-deposit>Ložisko rutilu</rutile-deposit>
+    <rutile-deposit-description>Titanový minerál s vysokou teplotou tání. Zdroj titanu pro pokročilé slitiny a letecký průmysl.</rutile-deposit-description>
+    
+    <silver-deposit>Ložisko stříbra</silver-deposit>
+    <silver-deposit-description>Ušlechtilý kov s nejlepší elektrickou vodivostí. Kritický pro vysoce výkonnou elektroniku a obvody.</silver-deposit-description>
+
+    <sulfur-deposit>Ložisko síry</sulfur-deposit>
+    <sulfur-deposit-description>Žlutý nekovový prvek s charakteristickým zápachem. Klíčová složka výbušnin a chemických procesů.</sulfur-deposit-description>
+
+    <tungsten-deposit>Ložisko wolframu</tungsten-deposit>
+    <tungsten-deposit-description>Extrémně tvrdý kov s nejvyšší teplotou tání. Nezbytný pro nástroje a aplikace v extrémních podmínkách.</tungsten-deposit-description>
+
+    <zinc-deposit>Ložisko zinku</zinc-deposit>
+    <zinc-deposit-description>Ochranný kov používaný pro galvanizaci. Poskytuje vynikající korózní ochranu železných konstrukcí.</zinc-deposit-description>
+</Translations>

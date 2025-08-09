@@ -1,0 +1,121 @@
+<Translations>
+    <Game>Hra</Game>
+    <Video>Video</Video>
+    <Audio>Audio</Audio>
+    <Language>Jazyk</Language>
+    <Resolution>Rozlišení</Resolution>
+    <RefreshRate>Obnovovací frekvence</RefreshRate>
+    <DisplayMode>Režim zobrazení</DisplayMode>
+    <FullScreen>Celá obrazovka</FullScreen>
+    <BorderlessWindow>Okno bez okrajů</BorderlessWindow>
+    <MaximizedWindow>Maximalizované okno</MaximizedWindow>
+    <Window>Okno</Window>
+    <Quality>Kvalita</Quality>
+    <Dev>Vývojářský</Dev>
+    <VeryLow>Velmi nízká</VeryLow>
+    <Low>Nízká</Low>
+    <Medium>Střední</Medium>
+    <High>Vysoká</High>
+    <VeryHigh>Velmi vysoká</VeryHigh>
+    <Ultra>Ultra</Ultra>
+    <Custom>Vlastní</Custom>
+    <GlobalIllumination>Globální osvětlení</GlobalIllumination>
+    <PerVoxelLighting>Osvětlení per voxel</PerVoxelLighting>
+    <VSync>VSync</VSync>
+    <DynamicResolutionScaling>Dynamické škálování rozlišení</DynamicResolutionScaling>
+    <ResolutionScaleMinMax>Škála rozlišení Min/Max</ResolutionScaleMinMax>
+    <FixedResolutionScale>Pevné škálování rozlišení</FixedResolutionScale>
+    <EdgeOutline>Obrysové čáry</EdgeOutline>
+    <Shadows>Stíny</Shadows>
+    <MasterVolume>Hlavní hlasitost</MasterVolume>
+    <MusicVolume>Hudba</MusicVolume>
+    <EffectsVolume>Efekty</EffectsVolume>
+    <AmbientVolume>Okolní zvuky</AmbientVolume>
+    <PioneersVolume>Průzkumníci</PioneersVolume>
+    <WildlifeVolume>Volně žijící zvířata</WildlifeVolume>
+    <UnappliedSettings>Neuložené nastavení</UnappliedSettings>
+    <UnappliedSettingsMessage>Jsou zde neuložené změny nastavení.&lt;br&gt;&lt;br&gt;Chcete je použít?</UnappliedSettingsMessage>
+    <ExitWithoutSaving>Zpět bez uložení</ExitWithoutSaving>
+    <Player>Hráč</Player>
+    <SelectedBlueprint>Vybraný plán</SelectedBlueprint>
+    <SelectedBuilding>Vybraná budova</SelectedBuilding>
+    <Terraforming>Terraformování</Terraforming>
+    <DefaultIngameMenu>Výchozí herní menu</DefaultIngameMenu>
+    <ScreenEdgeScroll>Rolování na okraji obrazovky</ScreenEdgeScroll>
+    <RunInBackground>Běžet na pozadí</RunInBackground>
+    <LockCursor>Uzamknout kurzor v okně</LockCursor>
+    <CameraShake>Třesení kamery</CameraShake>
+    <AntiAliasing>Vyhlazování</AntiAliasing>
+    <FastApproximateAntialiasing>FXAA</FastApproximateAntialiasing>
+    <TemporalAntialiasing>TAA</TemporalAntialiasing>
+    <SubpixelMorphologicalAntiAliasing>SMAA</SubpixelMorphologicalAntiAliasing>
+    <Bloom>Bloom</Bloom>
+    <DepthOfField>Hloubka ostrosti</DepthOfField>
+    <AmbientOcclusion>Okolní zastínění</AmbientOcclusion>
+    <FogOfWarDisplayType>Typ mlhy války</FogOfWarDisplayType>
+    <Retro>Retro</Retro>
+    <Clouds>Mraky</Clouds>
+    <FoundationClipMode>Režim ořezávání základů</FoundationClipMode>
+    <CameraDistance>Vzdálenost kamery</CameraDistance>
+    <WallNormals>Normály zdí</WallNormals>
+    <AutosaveIntervalInMinutes>Interval automatického ukládání (minuty)</AutosaveIntervalInMinutes>
+    <WindIntensity>Intenzita větru</WindIntensity>
+    <AutoDisableFeeding>Automaticky vypnout krmení průzkumníků</AutoDisableFeeding>
+    <AutoDisableFeedingTooltip>Automaticky vypnout krmení paliva a ingrediencí do strojů průzkumníky, když je připojen vstup (podavač nebo výstupní port)</AutoDisableFeedingTooltip>
+    <AllowAnalytics>Povolit analytiku</AllowAnalytics>
+    <DeleteAnalyticsHistory>Smazat historii analytiky</DeleteAnalyticsHistory>
+    <RequestDeletion>Požádat o smazání</RequestDeletion>
+    <GraphicPerformanceInfo>Pokud si všímáte vysokého využití GPU, zkuste vypnout stíny. To může významně snížit spotřebu energie a zlepšit výkon.
+
+Pokud máte nízkou snímkovací frekvenci, zvažte vypnutí stínů a použití možnosti pevného škálování rozlišení.
+Snížení rozlišení (například na 70%) může pomoci zvýšit výkon bez výrazného obětování vizuální kvality, zejména na menších obrazovkách.</GraphicPerformanceInfo>
+
+    <Camera>Kamera</Camera>
+    <Building>Stavění</Building>
+    <Prospectors>Průzkumníci</Prospectors>
+    
+    <Move>Pohyb</Move>
+    <PlayerMoveLeft>Pohyb vlevo</PlayerMoveLeft>
+    <PlayerMoveRight>Pohyb vpravo</PlayerMoveRight>
+    <PlayerMoveUp>Pohyb nahoru</PlayerMoveUp>
+    <PlayerMoveDown>Pohyb dolů</PlayerMoveDown>
+    <Panning>Posouvání</Panning>
+    <Fire>Střelba</Fire>
+    <AltFire>Alternativní střelba</AltFire>
+    <MultiSelect>Vícenásobný výběr</MultiSelect>
+    <OverrideSelect>Přepsat výběr</OverrideSelect>
+    <BlueprintDropper>Odstraňovač plánů</BlueprintDropper>
+    <RecordGif>Nahrát GIF</RecordGif>
+    <PauseTime>Pozastavit čas</PauseTime>
+    <ToggleSnapToTerrain>Přepnout přichycení k terénu</ToggleSnapToTerrain>
+    <PinTooltip>Připnout nápovědu</PinTooltip>
+    <IncreasePlaneHeight>Zvýšit výšku roviny</IncreasePlaneHeight>
+    <DecreasePlaneHeight>Snížit výšku roviny</DecreasePlaneHeight>
+    <RenderClipModeOff>Režim pohledu vypnutý</RenderClipModeOff>
+    <RenderClipModeNoRoof>Režim pohledu bez střechy</RenderClipModeNoRoof>
+    <RenderClipModePlane>Režim pohledu úroveň</RenderClipModePlane>
+    <RenderClipModeFoundation>Režim pohledu základy</RenderClipModeFoundation>
+    <DisableUiElements>Vypnout UI</DisableUiElements>
+
+    <Draft>Naverbovat</Draft>
+    <HoldPosition>Držet pozici</HoldPosition>
+    <Attack>Útok</Attack>
+    <AttackMove>Útočný pohyb</AttackMove>
+    <Patrol>Hlídka</Patrol>
+
+    <FreeRotate>Volné otáčení</FreeRotate>
+    <RotateLeft>Otočit vlevo</RotateLeft>
+    <RotateRight>Otočit vpravo</RotateRight>
+    <PitchUp>Náklon nahoru</PitchUp>
+    <PitchDown>Náklon dolů</PitchDown>
+
+    <OpenBasicBlueprintsMenu>Otevřít plány</OpenBasicBlueprintsMenu>
+    <OpenOrdersMenu>Otevřít příkazy</OpenOrdersMenu>
+    <OpenZoneMenu>Otevřít zóny</OpenZoneMenu>
+    
+    <PressAButton>Stiskněte tlačítko</PressAButton>
+    <ConflictingKeybinding>Konfliktní klávesová zkratka</ConflictingKeybinding>
+    <ConflictingKeybindingDescription>Zvolené tlačítko je již přiřazeno k jiné akci.
+
+Prosím vyberte jiné tlačítko.</ConflictingKeybindingDescription>
+</Translations>

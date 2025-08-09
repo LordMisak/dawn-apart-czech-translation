@@ -1,0 +1,16 @@
+<Translations>
+    <tier-1-ore-category>Rudy 1. úrovně</tier-1-ore-category>
+    <tier-1-ore-category-description>Základní kovové rudy jako měď, železo a další běžné minerály dostupné standardními těžebními metodami.</tier-1-ore-category-description>
+
+    <lucrum-category>Lucrum</lucrum-category>
+    <lucrum-category-description>Nejcennější a nejvzácnější minerál ve známé galaxii. Vyžaduje specializované těžební vybavení a chemická rozpouštědla.</lucrum-category-description>
+
+    <water-category>Voda</water-category>
+    <water-category-description>Životně důležitý zdroj pro udržení kolonie a průmyslové procesy. Lze čerpat ze studní nebo přírodních zdrojů.</water-category-description>
+
+    <oil-category>Ropa</oil-category>
+    <oil-category-description>Fosilní palivo používané pro energetiku a chemické procesy. Těží se z podzemních ložisek pomocí vrtných souprav.</oil-category-description>
+
+    <waste-category>Odpad</waste-category>
+    <waste-category-description>Vedlejší produkty výroby a spotřeby. Vyžaduje specializované nakládání a může být recyklován nebo bezpečně uložen.</waste-category-description>
+</Translations>

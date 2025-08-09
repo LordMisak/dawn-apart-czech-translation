@@ -1,0 +1,23 @@
+<Translations>
+    <CurrentAssignment>Aktuální přiřazení</CurrentAssignment>
+    <NoSpacePorts>Žádné kosmodromy</NoSpacePorts>
+    <AcceptTradeTooltip>Přijmout obchod</AcceptTradeTooltip>
+    <AbortTradeTooltip>Zrušit obchod.&lt;br&gt;&lt;br&gt;&lt;b&gt;Jakékoli naložené předměty budou ztraceny a obchod se stane nedostupným.&lt;/b&gt;</AbortTradeTooltip>
+    
+    <TradeExpired>Obchod vypršel</TradeExpired>
+    <TradeCompleted>Obchod dokončen</TradeCompleted>
+    <TraderLoading>Očekává se naložení</TraderLoading>
+    <TraderWasLoading>Loď měla naložit</TraderWasLoading>
+    <TraderLoaded>Loď naložila</TraderLoaded>
+    <TraderDelivering>a vyloží následující po dokončení</TraderDelivering>
+    <TraderWouldHaveDelivered>a vyložila by následující po dokončení</TraderWouldHaveDelivered>
+    <TraderDelivered>a vyložila následující</TraderDelivered>
+    <TraderVacating>Obchodník se vrací na orbitu</TraderVacating>
+    <TraderInProgress>Probíhající obchod</TraderInProgress>
+    <TraderDeparting>Obchodník odlétá</TraderDeparting>
+    
+    <TradePortDeactivated>DEAKTIVOVÁN</TradePortDeactivated>
+    <TradePortCantFit>NEVEJDE SE</TradePortCantFit>
+    <TradePortOccupied>OBSAZEN</TradePortOccupied>
+    
+</Translations>
