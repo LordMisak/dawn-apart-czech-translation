@@ -25,6 +25,12 @@ Due to the game not having built-in modding support for languages yet, we're usi
 - **FinishedTranslations.csv** - complete translation database
 - **Installation guide** for testing
 
+### Changelog and Versioning
+All changes are documented in [CHANGELOG.md](CHANGELOG.md) ([Czech version](CHANGELOG_CS.md)). This project uses [Semantic Versioning](https://semver.org/):
+- **Major** (X.0.0): Breaking changes in translation structure
+- **Minor** (0.X.0): New translations, significant terminology changes  
+- **Patch** (0.0.X): Minor fixes, grammatical corrections
+
 ### For Developers
 We're working with the development team to implement proper modding support for languages. This repository provides:
 - Complete Czech localization data
@@ -57,6 +63,12 @@ Vzhledem k tomu, že hra zatím nemá vestavěnou modding podporu pro jazyky, po
 - **38 XML překladových souborů** organizovaných podle herních modulů
 - **FinishedTranslations.csv** - kompletní překladová databáze
 - **Návod k instalaci** pro testování
+
+### Changelog a verzování
+Všechny změny jsou zdokumentovány v [CHANGELOG.md](CHANGELOG.md) ([česká verze](CHANGELOG_CS.md)). Projekt používá [Sémantické verzování](https://semver.org/):
+- **Major** (X.0.0): Zásadní změny ve struktuře překladu
+- **Minor** (0.X.0): Nové překlady, významné terminologické změny
+- **Patch** (0.0.X): Drobné opravy, gramatické úpravy
 
 ### Pro vývojáře
 Spolupracujeme s vývojářským týmem na implementaci modding podpory pro jazyky. Tento repozitář poskytuje:
