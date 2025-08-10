@@ -4,7 +4,7 @@
     <VoxelPosition>Pozice voxelu</VoxelPosition>
     <RequiredItems>Požadované předměty</RequiredItems>
     <ItemStorage>Sklad předmětů</ItemStorage>
-    <InputIngredients>Vstupní ingredience</InputIngredients>
+    <InputIngredients>Vstupní suroviny</InputIngredients>
     <ResultStorage>Sklad výsledků</ResultStorage>
     <CraftingSpeed>Rychlost výroby</CraftingSpeed>
     <TransportTime>Čas přepravy</TransportTime>

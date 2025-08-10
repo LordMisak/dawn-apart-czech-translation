@@ -60,8 +60,8 @@
     <WallNormals>Normály zdí</WallNormals>
     <AutosaveIntervalInMinutes>Interval automatického ukládání (minuty)</AutosaveIntervalInMinutes>
     <WindIntensity>Intenzita větru</WindIntensity>
-    <AutoDisableFeeding>Automaticky vypnout krmení průzkumníků</AutoDisableFeeding>
-    <AutoDisableFeedingTooltip>Automaticky vypnout krmení paliva a ingrediencí do strojů průzkumníky, když je připojen vstup (podavač nebo výstupní port)</AutoDisableFeedingTooltip>
+    <AutoDisableFeeding>Automaticky vypnout zásobování průzkumníků</AutoDisableFeeding>
+    <AutoDisableFeedingTooltip>Automaticky vypnout zásobování paliva a surovin do strojů průzkumníky, když je připojen vstup (podavač nebo výstupní port)</AutoDisableFeedingTooltip>
     <AllowAnalytics>Povolit analytiku</AllowAnalytics>
     <DeleteAnalyticsHistory>Smazat historii analytiky</DeleteAnalyticsHistory>
     <RequestDeletion>Požádat o smazání</RequestDeletion>

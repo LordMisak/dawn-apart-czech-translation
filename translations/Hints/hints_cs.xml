@@ -26,7 +26,7 @@
 
 - Můžete přepravovat předměty ze skladu do vesmírného přístavu vytvořením příkazu Přepravit. Klikněte pravým tlačítkem na sklad, vyberte předmět, který chcete přesunout, a poté klikněte levým tlačítkem na vesmírný přístav pro vydání příkazu.
 
-- Umístěte Mr. Soylenty pro krmení vašich prospektorů.</hints-list-description>
+- Umístěte Mr. Soylenty pro zásobování vašich prospektorů.</hints-list-description>
 
     <h-roadmap-subject>Plán vývoje</h-roadmap-subject>
     <h-roadmap-description>
@@ -160,8 +160,8 @@ Momentálně systém plánování není plně vyvážený—prospektoři mohou p
     <h-events-subject>Události</h-events-subject>
     <h-events-description>Všechny komunikace, úkoly a tutoriálové kroky najdete v okně Událostí. Malý kroužek před názvem události indikuje, zda byla přečtena—vyplněný znamená nepřečtenou, prázdný znamená přečtenou.</h-events-description>
     
-    <h-auto-feeding-subject>Automatické krmení</h-auto-feeding-subject>
-    <h-auto-feeding-description>Stroje jsou automaticky zásobovány prospektory, když mají málo paliva nebo ingrediencí. Prospektoři se snaží dělat své cesty efektivní dodáváním více než jen holého minima potřebného pro recept.
+    <h-auto-feeding-subject>Automatické zásobování</h-auto-feeding-subject>
+    <h-auto-feeding-description>Stroje jsou automaticky zásobovány prospektory, když mají málo paliva nebo surovin. Prospektoři se snaží dělat své cesty efektivní dodáváním více než jen holého minima potřebného pro recept.
 
 Pokud chcete toto chování zakázat, můžete přepnout možnost Auto-Feeding v detailním pohledu stroje (hledejte ikonu s malou osobou). Když je vypnuto, prospektoři už nebudou tento stroj automaticky doplňovat nebo tankovat.
 
@@ -270,11 +270,11 @@ Nicméně některé zdroje—jako Lucrum 115—vyžadují pokročilé těžební
     
     <bubble-converter-recipe>Žádný recept</bubble-converter-recipe>
     <bubble-converter-fuel>Chybí palivo</bubble-converter-fuel>
-    <bubble-converter-ingredients>Chybí ingredience</bubble-converter-ingredients>
+    <bubble-converter-ingredients>Chybí suroviny</bubble-converter-ingredients>
     <bubble-blueprint-not-in-stockpile>Není ve skladu</bubble-blueprint-not-in-stockpile>
     <bubble-deposit-depleted>Ložisko vyčerpáno</bubble-deposit-depleted>
-    <bubble-workstation-missing-ingredients>Chybí ingredience</bubble-workstation-missing-ingredients>
-    <bubble-trader-arriving>Přijíždí za {0}</bubble-trader-arriving>
-    <bubble-trader-departing>Odjíždí za {0}</bubble-trader-departing>
+    <bubble-workstation-missing-ingredients>Chybí suroviny</bubble-workstation-missing-ingredients>
+    <bubble-trader-arriving>Přilétá za {0}</bubble-trader-arriving>
+    <bubble-trader-departing>Odletá za {0}</bubble-trader-departing>
 
 </Translations>

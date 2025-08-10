@@ -1,5 +1,5 @@
 <Translations>
-	<Construct>Instalovat</Construct>
+	<Construct>Postavit</Construct>
 	<ConstructTooltip>Umístit plány&lt;br&gt;Klávesa: {0}</ConstructTooltip>
 	<CloseCategoryTooltip>Zavřít kategorii&lt;br&gt;Klávesa: {0}</CloseCategoryTooltip>
 	
@@ -10,8 +10,8 @@
 	<IncreaseTerraformTooltip>Zvýšit výšku terénu k nejbližší mřížce&lt;br&gt;Klávesa: {0}</IncreaseTerraformTooltip>
 	<DecreaseTerraformTooltip>Snížit výšku terénu k nejbližší mřížce&lt;br&gt;Klávesa: {0}</DecreaseTerraformTooltip>
 	
-	<Deconstruct>Odinstalovat</Deconstruct>
-	<DeconstructTooltip>Odinstalovat umístěné budovy&lt;br&gt;Klávesa: {0}</DeconstructTooltip>
+	<Deconstruct>Zbourat</Deconstruct>
+	<DeconstructTooltip>Zbourat umístěné budovy&lt;br&gt;Klávesa: {0}</DeconstructTooltip>
 
 	<ClearOrders>Vymazat příkazy</ClearOrders>
 	<ClearOrdersTooltip>Vymazat přiřazené příkazy&lt;br&gt;Klávesa: {0}</ClearOrdersTooltip>
@@ -50,10 +50,10 @@
 	<Makes>Vyrábí</Makes>
 	<Takes>Bere</Takes>
 	<ToBuild>Pro stavbu {0}</ToBuild>
-	<MadeInText>Vyrobeno v</MadeInText>
+	<MadeInText>Vyrábí se v</MadeInText>
 	<ToMakeText>Používá se k výrobě</ToMakeText>
 	<RecipeToCraft>Recept na výrobu</RecipeToCraft>
-	<MissingIngredients>Ingredience ve &lt;color="yellow"&gt;žluté&lt;/color&gt; jsou v nedostatku</MissingIngredients>
+	<MissingIngredients>Suroviny ve &lt;color="yellow"&gt;žluté&lt;/color&gt; jsou v nedostatku</MissingIngredients>
 	<ValidFuel>Platné palivo</ValidFuel>
 	<RecipeCraftTime>Čas výroby: {0}</RecipeCraftTime>
 	<BlueprintRequirements>Recept na výrobu</BlueprintRequirements>
@@ -167,7 +167,7 @@
 	<Haul>Přepravovat</Haul>
 	<Clean>Uklízet</Clean>
 	<Clear>Vyčistit</Clear>
-	<Cut>Řezat</Cut>
+	<Cut>Pokácet</Cut>
 	<Allow>Povolit</Allow>
 	<Deny>Zakázat</Deny>
 	<Terraform>Vyrovnat</Terraform>
@@ -176,10 +176,10 @@
 	<DoctorExplanation>Ošetřování raněných a přenášení neschopných průzkumníků do bezpečí.</DoctorExplanation>
 	<MineExplanation>Těžba zdrojů ze země.</MineExplanation>
 	<ChopExplanation>Kácení stromů a keřů.</ChopExplanation>
-	<ConstructExplanation>Instalace a odinstalace strojů a struktur.</ConstructExplanation>
+	<ConstructExplanation>Postavení a odstranění strojů a struktur.</ConstructExplanation>
 	<CraftExplanation>Výroba předmětů a plánů na pracovních stolech.</CraftExplanation>
 	<RepairExplanation>Oprava poškozených nebo rozbitých strojů a struktur.</RepairExplanation>
-	<MaintainExplanation>Údržba strojů a přeprava ingrediencí potřebných k jejich chodu.</MaintainExplanation>
+	<MaintainExplanation>Údržba strojů a přeprava surovin potřebných k jejich chodu.</MaintainExplanation>
 	<HaulExplanation>Přeprava předmětů z jednoho místa na druhé.</HaulExplanation>
 	
 	<Safe>Bezpečné</Safe>

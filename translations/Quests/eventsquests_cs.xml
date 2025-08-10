@@ -86,7 +86,7 @@ Přejděte do menu Plány v levém dolním rohu a vyberte Pracovní stůl. Umís
 
 většinu strojů si budete muset vyrobit sami. V rámci tutoriálu jsou všechny potřebné materiály pro recept pece již ve vašem skladu.
 
-Vyberte mechanický pracovní stůl a klikněte na "Zařadit recept". Poté vyberte pec. Průzkumník shromáždí všechny potřebné ingredience a vyrobí ji.
+Vyberte mechanický pracovní stůl a klikněte na "Zařadit recept". Poté vyberte pec. Průzkumník shromáždí všechny potřebné suroviny a vyrobí ji.
 
 Jakmile bude pec vyrobena, můžete ji umístit prostřednictvím menu plánů na vhodné místo. Pro vaši bezpečnost doporučuji postavit ji poblíž vaší přistávací skupiny.</q-work-the-workbench-description>
 
@@ -161,8 +161,8 @@ Můžete přidat sklady k výstupům strojů pro automatické shromažďování 
 
 Pamatujte: Automatizace je klíčem k efektivitě.</q-stocking-stockpiles-description>
 
-    <q-your-first-spaceport>Nainstalovat kosmodrom</q-your-first-spaceport>
-    <q-your-first-spaceport-subject>Nainstalovat kosmodrom</q-your-first-spaceport-subject>
+    <q-your-first-spaceport>Postavit kosmodrom</q-your-first-spaceport>
+    <q-your-first-spaceport-subject>Postavit kosmodrom</q-your-first-spaceport-subject>
     <q-your-first-spaceport-description>Řediteli,
 
 abychom vám mohli poslat první loď na vyzvednutí naší první dávky Lucrum 115, musíte postavit kosmodrom.

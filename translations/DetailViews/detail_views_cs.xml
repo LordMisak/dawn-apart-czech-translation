@@ -2,7 +2,7 @@
 	<NoRecipeSelected>Žádný recept není vybrán</NoRecipeSelected>
 	<NoFuel>Žádné palivo</NoFuel>
 	<OutputBlocked>Výstup blokován</OutputBlocked>
-	<WaitingForIngredients>Čekání na ingredience</WaitingForIngredients>
+	<WaitingForIngredients>Čekání na suroviny</WaitingForIngredients>
 	<NeedsRepair>Potřebuje opravu</NeedsRepair>
 
 	<ChangeRecipeTooltip>Změnit aktuálně vybraný recept</ChangeRecipeTooltip>

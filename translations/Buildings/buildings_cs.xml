@@ -269,6 +269,9 @@
     <brick-wall>Cihlová zeď</brick-wall>
     <brick-wall-description>Zeď vyrobená z cihel.</brick-wall-description>
 	
+    <basic-futon>Japonská postel</basic-futon>
+    <basic-futon-description>Tradiční japonská postel v podobě matrace na zemi.</basic-futon-description>
+	
     <basic-bed>Postel</basic-bed>
     <basic-bed-description>Poskytuje dobrý noční odpočinek.</basic-bed-description>
 
@@ -283,6 +286,9 @@
 
     <basic-stove>Sporák</basic-stove>
     <basic-stove-description>Umožňuje kolonistům vařit jídla.</basic-stove-description>
+
+    <tokonoma>Tokonoma</tokonoma>
+    <tokonoma-description>Prohloubený prostor v japonském přijímacím pokoji sloužící k dekoraci.</tokonoma-description>
 
     <mr-soylent-2>Mr. Soylent</mr-soylent-2>
     <mr-soylent-2-description>Sněz svou dávku dnes, nebo buď dávkou zítra.</mr-soylent-2-description>
@@ -380,8 +386,8 @@
     <basic-window-half>Okno</basic-window-half>
     <basic-window-half-description>Okno. Skvělé výhledy!</basic-window-half-description>
 
-    <barbed-wire-fence>Ostnatý drát</barbed-wire-fence>
-    <barbed-wire-fence-description>Ostnatý drát pro ochranu perimetru proti vetřelcům.</barbed-wire-fence-description>
+    <barbed-wire-fence>Plot s ostnatým drátem</barbed-wire-fence>
+    <barbed-wire-fence-description>Plot s ostnatým drátem pro ochranu perimetru proti vetřelcům.</barbed-wire-fence-description>
 
     <barbed-wire-gate>Brána z ostnatého drátu</barbed-wire-gate>
     <barbed-wire-gate-description>Brána v ostnatém drátu umožňující kontrolovaný průchod.</barbed-wire-gate-description>
@@ -422,13 +428,13 @@
     <large-utility-pole>Velký užitkový sloup</large-utility-pole>
     <large-utility-pole-description>Podporuje více elektrických vedení a kabelů.</large-utility-pole-description>
 
-    <basic-lantern>Základní lucerna</basic-lantern>
+    <basic-lantern>Základní svítilna</basic-lantern>
     <basic-lantern-description>Osvětluje malou oblast.</basic-lantern-description>
 
-    <lantern>Lucerna</lantern>
+    <lantern>Lampa</lantern>
     <lantern-description>Osvětluje střední oblast</lantern-description>
     
-    <base-lantern>Základní lucerna</base-lantern>
+    <base-lantern>Základní lampa</base-lantern>
     <base-lantern-description>Osvětluje velkou oblast</base-lantern-description>
 
     <window-25x30>Okno</window-25x30>
@@ -437,7 +443,7 @@
     <mounted-light>Nástěnné světlo</mounted-light>
     <mounted-light-description>Osvětluje místnosti při připevnění ke stropu.</mounted-light-description>
 
-    <base-mounted-light>Nástěnné světlo</base-mounted-light>
+    <base-mounted-light>Nástěnné LED světlo</base-mounted-light>
     <base-mounted-light-description>Osvětluje místnosti při připevnění na zeď.</base-mounted-light-description>
 
     <light-alarm>Alarm</light-alarm>
@@ -446,7 +452,7 @@
     <light-bell-small>Malé zvonové světlo</light-bell-small>
     <light-bell-small-description>Osvětlete podlahy vaší továrny měkkým, rozptýleným světlem.</light-bell-small-description>
 
-    <light-mood>Nálادové světlo</light-mood>
+    <light-mood>Náladové světlo</light-mood>
     <light-mood-description>Světlo pro zvláštní příležitosti.</light-mood-description>
 
     <light-office>Kancelářské světlo</light-office>
@@ -461,10 +467,10 @@
     <torch>Pochodeň</torch>
     <torch-description>Osvětluje primitivní It'ak chaty.</torch-description>
     
-    <basic-lantern-hanging>Visící lucerna</basic-lantern-hanging>
+    <basic-lantern-hanging>Visící lampa</basic-lantern-hanging>
     <basic-lantern-hanging-description>Osvětluje venkovní oblasti.</basic-lantern-hanging-description>
     
-    <basic-lantern-street>Pouličn lucerna</basic-lantern-street>
+    <basic-lantern-street>Pouliční lampa</basic-lantern-street>
     <basic-lantern-street-description>Osvětluje venkovní oblasti.</basic-lantern-street-description>
 
     <basic-moonlight-tower-tall>Vysoká měsíční věž</basic-moonlight-tower-tall>
